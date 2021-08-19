@@ -1,13 +1,54 @@
 name,source,gender,wikidata,type
-Agátová,wikidata,,Q472943,way
+Agátová,wikidata,,Q157417;Q472943,way
+Albánska,wikidata,,Q222,way
+Alejová,wikidata,,Q207934,way
 Amarelková,wikidata,,Q155848,way
+Americká,wikidata,,Q828,way
+Amurská,wikidata,,Q6862,way
+Anenská,wikidata,,Q666578,way
+Anízová,wikidata,,Q28692,way
+Antolská,wikidata,,Q249613,way
 Arménska,wikidata,,Q399,way
+Astronomická,wikidata,,Q11063,way
+Avarská,wikidata,,Q68962,way
+Azalková,wikidata,,Q5986917,way
+Azovská,wikidata,,Q35000,way
 Bajkalská,wikidata,,Q5513,way
+Balkánska,wikidata,,Q23522,way
+Banskobystrická,wikidata,,Q144983,way
+Baštová,wikidata,,Q81839,way
+Bazalková,wikidata,,Q38859,way
 Bazová,wikidata,,Q131448,way
+Bebravská,wikidata,,Q791716,way
+Beskydská,wikidata,,Q215573,way
 Betliarska,wikidata,,Q2630404,way
+Beňadická,wikidata,,Q1008238,way
+Biela,wikidata,,Q23444,way
+Bieloruská,wikidata,,Q184,way
+Biskupická,wikidata,,Q683983,way
+Blatnická,wikidata,,Q784917,way
+Bleduľová,wikidata,,Q161530,way
+Blumentálska,wikidata,,Q1239947,way
+Bobuľová,wikidata,,Q13184,way
+Bodliaková,wikidata,,Q926838,way
+Bodvianska,wikidata,,Q524569,way
+Bojnická,wikidata,,Q788753,way
+Bôrik,wikidata,,Q20893956,way
+Borinská,wikidata,,Q893598,way
+Borovicová,wikidata,,Q12024,way
+Bradlianska,wikidata,,Q897067,way
+Brančská,wikidata,,Q793344,way
+Brestová,wikidata,,Q131113,way
+Brezová,wikidata,,Q25243,way
+Brnianska,wikidata,,Q14960,way
+Broskyňová,wikidata,,Q13189,way
+Brusnicová,wikidata,,Q5079636,way
+Budatínska,wikidata,,Q1804836;Q851291,way
 Bukureštská,wikidata,,Q19660,way
+Břeclavská,wikidata,,Q581478,way
 Chorvátska,wikidata,,Q224,way
 Cyrilova,wikidata,,Q239925,way
+Dubová,wikidata,,Q12004,way
 Dunajská,wikidata,,Q1653,way
 Estónska,wikidata,,Q191,way
 Handlovská,wikidata,,Q842011,way
@@ -18,6 +59,7 @@ Hollého,wikidata,,Q13421293,way
 "Jána Stanislava",wikidata,,Q12768642,way
 Jaseňová,wikidata,,Q128887,way
 Jasovská,wikidata,,Q719586,way
+Javorová,wikidata,,Q42292,way
 Kapušianska,wikidata,,Q1095718,way
 "Kežmarské námestie",wikidata,,Q327977,way
 Kosodrevinová,wikidata,,Q147475,way
@@ -54,6 +96,7 @@ Urpínska,wikidata,,Q4177997,way
 "Viedenská cesta",wikidata,,Q1741,way
 Vígľašská,wikidata,,Q15975002,way
 Vranovská,wikidata,,Q842005,way
+Čerešňová,wikidata,,Q165137,way
 "Červený kríž",wikidata,,Q7178,way
 Ľubietovská,wikidata,,Q223477,way
 Žehrianska,wikidata,,Q393479,way
@@ -69,16 +112,12 @@ Vranovská,wikidata,,Q842005,way
 "8. alej",,,,way
 "8. mája",,,,way
 Achátová,,,,way
-Adámiho,,,,way
 "Ágosta Sőtéra",,,,way
 "Akad. mal. Jozefa Nagya",,,,way
 Akvamarínová,,,,way
 "Aladára Radnótiho",,,,way
-Albánska,,,,way
 "Albertova lávka",,,,way
 "Albína Brunovského",,,,way
-Alejová,,,,way
-Alešova,,,,way
 Alibernetová,,,,way
 Alstrova,,,,way
 Alviano,,,,way
@@ -86,38 +125,26 @@ Alžbetínska,,,,way
 "Am Bahndamm",,,,way
 Ambroseho,,,,way
 Ambrova,,,,way
-Americká,,,,way
 "Americké námestie",,,,way
 Ametystová,,,,way
-Amurská,,,,way
 "Andreja Hadíka",,,,way
 "Andreja Plávku",,,,way
-Anenská,,,,way
-Anízová,,,,way
 Antická,,,,way
-Antolská,,,,way
 "Antona Durvaya",,,,way
 "Antona Floreka",,,,way
 "Antona Moyša",,,,way
 "Art passage",,,,way
-Astronomická,,,,way
 Astrová,,,,way
 Attidova,,,,way
 "Augustína Murína",,,,way
 Auréliova,,,,way
-Avarská,,,,way
-Azalková,,,,way
-Azovská,,,,way
 Azúrová,,,,way
 Babuškova,,,,way
-Bakošova,,,,way
-Balkánska,,,,way
 Baltská,,,,way
 Bancíkovej,,,,way
 Banícka,,,,way
 Baničova,,,,way
 Banšelova,,,,way
-Banskobystrická,,,,way
 Barancová,,,,way
 Bardejovská,,,,way
 Bárdošova,,,,way
@@ -125,78 +152,47 @@ Bárdošova,,,,way
 Barónka,,,,way
 Bartoškova,,,,way
 Bartoňova,,,,way
-Baštová,,,,way
 Batkova,,,,way
-Bazalková,,,,way
 Bažantia,,,,way
 Bažantnicová,,,,way
-Beblavého,,,,way
-Bebravská,,,,way
 Beckovská,,,,way
 Bedľová,,,,way
 Begóniová,,,,way
 Belániková,,,,way
 Belehradská,,,,way
 Belianska,,,,way
-Belinského,,,,way
-Benediktiho,,,,way
-Beskydská,,,,way
 Bezekova,,,,way
-Beňadická,,,,way
 Béžová,,,,way
-Biela,,,,way
 Bielkova,,,,way
-Bieloruská,,,,way
-Bilíkova,,,,way
-Biskupická,,,,way
 Blagoevova,,,,way
-Blatnická,,,,way
 Blatúchová,,,,way
-Bleduľová,,,,way
 "Blumental pasáž",,,,way
-Blumentálska,,,,way
 Blyskáčová,,,,way
-Bobuľová,,,,way
 Bociania,,,,way
-Bodliaková,,,,way
 Bodrocká,,,,way
-Bodvianska,,,,way
-Bojnická,,,,way
 Borágová,,,,way
 Borekova,,,,way
 Borievková,,,,way
-Bôrik,,,,way
-Borinská,,,,way
-Borovicová,,,,way
 Borská,,,,way
-Bosákova,,,,way
 Bošániho,,,,way
 Boskovičova,,,,way
 Botanická,,,,way
 Bočná,,,,way
 Bradáčova,,,,way
-Bradlianska,,,,way
-Brančská,,,,way
 Bratislava,,,,relation
 Bratislavská,,,,way
 Bratská,,,,way
-Brestová,,,,way
-Brezová,,,,way
 Brezovská,,,,way
 Brečtanová,,,,way
 Brežná,,,,way
 Bridlicová,,,,way
 Brigádnická,,,,way
 Brižitská,,,,way
-Brnianska,,,,way
 Brodná,,,,way
 Brodská,,,,way
 Bronzová,,,,way
-Broskyňová,,,,way
 Bršlenová,,,,way
 Brumovická,,,,way
-Brusnicová,,,,way
-Budatínska,,,,way
 Búdková,,,,way
 Budovateľská,,,,way
 Budyšínska,,,,way
@@ -213,7 +209,6 @@ Bylinková,,,,way
 Bystrická,,,,way
 "Bystrické sady",,,,way
 Bzovícka,,,,way
-Břeclavská,,,,way
 Cabanova,,,,way
 Cablkova,,,,way
 Cádrova,,,,way
@@ -302,7 +297,6 @@ Družobná,,,,way
 Družstevná,,,,way
 Dubáková,,,,way
 Dubnická,,,,way
-Dubová,,,,way
 "Dúbravská cesta",,,,way
 Dúbravčická,,,,way
 Dudova,,,,way
@@ -507,7 +501,6 @@ Jasná,,,,way
 Jastrabia,,,,way
 Jastrabinová,,,,way
 Javorinská,,,,way
-Javorová,,,,way
 Jazdecká,,,,way
 Jazerná,,,,way
 Jazmínová,,,,way
@@ -619,7 +612,6 @@ Kozmonautická,,,,way
 Kočánkova,,,,way
 Koľajná,,,,way
 Kožušnícka,,,,way
-"Kpt. Jána Rašu",,,,way
 Krahulčia,,,,way
 Krajinská,,,,way
 "Krajinská cesta",,,,way
@@ -1729,7 +1721,6 @@ Zvončeková,,,,way
 Čárskeho,,,,way
 Čavojského,,,,way
 Čerencová,,,,way
-Čerešňová,,,,way
 "Čerešňový sad",,,,way
 Černicová,,,,way
 Černockého,,,,way
