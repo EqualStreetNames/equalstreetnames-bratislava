@@ -44,10 +44,22 @@ Brnianska,wikidata,,Q14960,way
 Broskyňová,wikidata,,Q13189,way
 Brusnicová,wikidata,,Q5079636,way
 Budatínska,wikidata,,Q1804836;Q851291,way
+Buková,wikidata,,Q25403,way
 Bukureštská,wikidata,,Q19660,way
+Bulharská,wikidata,,Q133255,way
+Bystrická,wikidata,,Q246755,way
+Bzovícka,wikidata,,Q848731,way
 Břeclavská,wikidata,,Q581478,way
+"Cesta na Senec",wikidata,,Q754790,way
+"Cesta na Červený most",wikidata,,Q28793285,way
 Chorvátska,wikidata,,Q224,way
+Cintorínska,wikidata,,Q39614,way
+Cukrová,wikidata,,Q11002,way
 Cyrilova,wikidata,,Q239925,way
+Dargovská,wikidata,,Q902056,way
+Desiata,wikidata,,Q23806,way
+Deviata,wikidata,,Q19108,way
+"Devínska cesta",wikidata,,Q661046,way
 Dubová,wikidata,,Q12004,way
 Dunajská,wikidata,,Q1653,way
 Estónska,wikidata,,Q191,way
@@ -76,6 +88,7 @@ Moldavská,wikidata,,Q846440,way
 Muškátová,wikidata,,Q146118,way
 Novobanská,wikidata,,Q268463,way
 Ondavská,wikidata,,Q644669,way
+Poniklecová,wikidata,,Q9333950,way
 Poľská,wikidata,,Q36,way
 Prešovská,wikidata,,Q26119,way
 Rumančeková,wikidata,,Q28437,way
@@ -96,8 +109,13 @@ Urpínska,wikidata,,Q4177997,way
 "Viedenská cesta",wikidata,,Q1741,way
 Vígľašská,wikidata,,Q15975002,way
 Vranovská,wikidata,,Q842005,way
+Čakanková,wikidata,,Q2544599,way
+Čalovská,wikidata,,Q740469,way
 Čerešňová,wikidata,,Q165137,way
+Černicová,wikidata,,Q13541716,way
 "Červený kríž",wikidata,,Q7178,way
+Čiernovodská,wikidata,,Q12781295,way
+Čučoriedková,wikidata,,Q5413585,way
 Ľubietovská,wikidata,,Q223477,way
 Žehrianska,wikidata,,Q393479,way
 "1. alej",,,,way
@@ -197,18 +215,13 @@ Búdková,,,,way
 Budovateľská,,,,way
 Budyšínska,,,,way
 Bujnákova,,,,way
-Buková,,,,way
 Bukovinská,,,,way
-Bulharská,,,,way
 Bulíkova,,,,way
 Bullova,,,,way
 Burgundská,,,,way
-Buzalkova,,,,way
 Bučinová,,,,way
 Bylinková,,,,way
-Bystrická,,,,way
 "Bystrické sady",,,,way
-Bzovícka,,,,way
 Cabanova,,,,way
 Cablkova,,,,way
 Cádrova,,,,way
@@ -219,9 +232,7 @@ Cédrová,,,,way
 "Cesta na Kamzík",,,,way
 "Cesta na Klanec",,,,way
 "Cesta na Kopáč",,,,way
-"Cesta na Senec",,,,way
 "Cesta na Zajačie",,,,way
-"Cesta na Červený most",,,,way
 "Cesta pri Biskupickom ramene",,,,way
 Cezmínová,,,,way
 Chalcedónová,,,,way
@@ -237,27 +248,21 @@ Chrenová,,,,way
 Chrobákova,,,,way
 Chvojnícka,,,,way
 Cígeľská,,,,way
-Cintorínska,,,,way
 Cintulova,,,,way
 Ciroková,,,,way
 Citrínová,,,,way
 "City Gate Passage",,,,way
 Colnícka,,,,way
 Csenárova,,,,way
-Cukrová,,,,way
 Cyprichova,,,,way
 "Daliborovo námestie",,,,way
 Damborského,,,,way
 Dankovského,,,,way
-Dargovská,,,,way
 Delená,,,,way
 "Delená cesta",,,,way
 Demänovská,,,,way
-Desiata,,,,way
 Detvianska,,,,way
 Devätinová,,,,way
-Deviata,,,,way
-"Devínska cesta",,,,way
 "Devínske Jazero",,,,way
 Diamantová,,,,way
 Dlhá,,,,way
@@ -265,8 +270,6 @@ Dlhá,,,,way
 "Dlhé diely II",,,,way
 "Dlhé diely III",,,,way
 Dneperská,,,,way
-Dobrovičova,,,,way
-Dobrovského,,,,way
 Dohnalova,,,,way
 Doležalova,,,,way
 Dolichénska,,,,way
@@ -814,7 +817,7 @@ Morušová,,,,way
 Moskovská,,,,way
 Mošovského,,,,way
 "Most Apollo",,,,way
-"Most Lafranconi",,,,way
+"Most Lanfranconi",,,,way
 "Most SNP",,,,way
 Mostná,,,,way
 Mostová,,,,way
@@ -1128,7 +1131,6 @@ Polárna,,,,way
 Polereckého,,,,way
 Polianky,,,,way
 Poludníková,,,,way
-Poniklecová,,,,way
 Popolná,,,,way
 Popovova,,,,way
 Popradská,,,,way
@@ -1715,31 +1717,24 @@ Zvolenská,,,,way
 Zvončeková,,,,way
 "starý Krasnanský trail",,,,way
 Čachtická,,,,way
-Čakanková,,,,way
 Čaklovská,,,,way
-Čalovská,,,,way
 Čárskeho,,,,way
 Čavojského,,,,way
 Čerencová,,,,way
 "Čerešňový sad",,,,way
-Černicová,,,,way
 Černockého,,,,way
 Červená,,,,way
 "Červená cesta",,,,way
 Červeňákova,,,,way
-Červeňova,,,,way
 Česká,,,,way
 "Československých parašutistov",,,,way
 "Československých tankistov",,,,way
 Čečinová,,,,way
-Čiernovodská,,,,way
 "Čierny chodník",,,,way
 Čiližská,,,,way
 Čipkárska,,,,way
-Čmelíkova,,,,way
 Čmeľovec,,,,way
 Čremchová,,,,way
-Čučoriedková,,,,way
 Ďatelinová,,,,way
 Ďumbierska,,,,way
 Ďurgalova,,,,way
