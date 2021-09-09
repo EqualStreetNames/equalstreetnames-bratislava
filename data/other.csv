@@ -60,8 +60,15 @@ Dargovská,wikidata,,Q902056,way
 Desiata,wikidata,,Q23806,way
 Deviata,wikidata,,Q19108,way
 "Devínska cesta",wikidata,,Q661046,way
+Domašská,wikidata,,Q1192056,way
+Drevená,wikidata,,Q287,way
+Drieňová,wikidata,,Q158642,way
+"Drotárska cesta",wikidata,,Q338221,way
+Druhá,wikidata,,Q200,way
+Dubnická,wikidata,,Q481528,way
 Dubová,wikidata,,Q12004,way
 Dunajská,wikidata,,Q1653,way
+Egrešová,wikidata,,Q41503,way
 Estónska,wikidata,,Q191,way
 Handlovská,wikidata,,Q842011,way
 Herlianska,wikidata,,Q550565,way
@@ -91,6 +98,7 @@ Ondavská,wikidata,,Q644669,way
 Poniklecová,wikidata,,Q9333950,way
 Poľská,wikidata,,Q36,way
 Prešovská,wikidata,,Q26119,way
+Prvá,wikidata,,Q199,way
 Rumančeková,wikidata,,Q28437,way
 "Rusovská cesta",wikidata,,Q1091791,way
 Sabinovská,wikidata,,Q837478,way
@@ -103,6 +111,7 @@ Tabaková,wikidata,,Q1566,way
 Terchovská,wikidata,,Q932854,way
 Topoľová,wikidata,,Q25356,way
 Trebišovská,wikidata,,Q256301,way
+Tretia,wikidata,,Q201,way
 "Trnavská cesta",wikidata,,Q26175,way
 Turčianska,wikidata,,Q2034315,way
 Urpínska,wikidata,,Q4177997,way
@@ -116,6 +125,7 @@ Vranovská,wikidata,,Q842005,way
 "Červený kríž",wikidata,,Q7178,way
 Čiernovodská,wikidata,,Q12781295,way
 Čučoriedková,wikidata,,Q5413585,way
+Ďatelinová,wikidata,,Q156635,way
 Ľubietovská,wikidata,,Q223477,way
 Žehrianska,wikidata,,Q393479,way
 "1. alej",,,,way
@@ -275,31 +285,24 @@ Doležalova,,,,way
 Dolichénska,,,,way
 Dolná,,,,way
 "Dolnozemská cesta",,,,way
-Domašská,,,,way
 Domiciánova,,,,way
 "Dominika Tatarku",,,,way
 Domkárska,,,,way
 "Domové role",,,,way
 Donnerova,,,,way
-Donovalova,,,,way
 Donská,,,,way
 Dopravná,,,,way
 Dorastenecká,,,,way
 Dražická,,,,way
-Drevená,,,,way
-Drieňová,,,,way
 "Drieňovská hrebeňovka",,,,way
 Drobného,,,,way
 Dropia,,,,way
-"Drotárska cesta",,,,way
 Drozdová,,,,way
-Druhá,,,,way
 Druidská,,,,way
 Družicová,,,,way
 Družobná,,,,way
 Družstevná,,,,way
 Dubáková,,,,way
-Dubnická,,,,way
 "Dúbravská cesta",,,,way
 Dúbravčická,,,,way
 Dudova,,,,way
@@ -309,8 +312,6 @@ Dvojkrížna,,,,way
 "Dvor 66",,,,way
 Edisonova,,,,way
 "Edlova cesta",,,,way
-Egrešová,,,,way
-Einsteinova,,,,way
 Eisnerova,,,,way
 Elektrárenská,,,,way
 Exnárova,,,,way
@@ -1211,7 +1212,6 @@ Prokofievova,,,,way
 Prosová,,,,way
 "Protinapoleónsky val",,,,way
 Prúdová,,,,way
-Prvá,,,,way
 Prvosienková,,,,way
 Pšeničná,,,,way
 Púchovská,,,,way
@@ -1541,7 +1541,6 @@ Tramínová,,,,way
 Trávna,,,,way
 Trenčianska,,,,way
 Treskoňova,,,,way
-Tretia,,,,way
 Trhová,,,,way
 Trinásta,,,,way
 "Trnavské mýto",,,,relation+way
@@ -1735,7 +1734,6 @@ Zvončeková,,,,way
 Čipkárska,,,,way
 Čmeľovec,,,,way
 Čremchová,,,,way
-Ďatelinová,,,,way
 Ďumbierska,,,,way
 Ďurgalova,,,,way
 Ľadová,,,,way
