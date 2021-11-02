@@ -43,6 +43,7 @@ Bottova,wikidata,M,Q974206,way
 Buzalkova,wikidata,M,Q7786535,way
 Bystrého,wikidata,M,Q438631,way
 Chalupkova,wikidata,M,Q262637,way
+Chlumeckého,wikidata,M,Q4764835,way
 Cikkerova,wikidata,M,Q692171,way
 "Daxnerovo námestie",wikidata,M,Q255678,way
 Dobrovičova,wikidata,M,Q12771518,way
@@ -80,12 +81,21 @@ Godrova,wikidata,M,Q1011321,way
 Gogoľova,wikidata,M,Q43718,way
 Gorazdova,wikidata,M,Q1537896,way
 Gorkého,wikidata,M,Q12706,way
+Gunduličova,wikidata,M,Q317588,way
 Guothova,wikidata,M,Q12768071,way
+Hálkova,wikidata,M,Q594896,way
+Hálova,wikidata,M,Q12767789,way
 Hamuliakova,wikidata,M,Q552703,way
 Hanulova,wikidata,M,Q718203,way
+Harmincova,wikidata,M,Q12755637,way
 Hattalova,wikidata,M,Q1040777,way
+Havlíčkova,wikidata,M,Q452084,way
+Haydnova,wikidata,M,Q7349,way
+Heydukova,wikidata,M,Q362154,way
+Heyrovského,wikidata,M,Q157701,way
 Hečkova,wikidata,M,Q443963,way
 "Hodžovo námestie",wikidata,M,Q1392478,relation+way
+Hollého,wikidata,M,Q1383201,way
 Holubyho,wikidata,M,Q12768950,way
 "Horná Vančurova",wikidata,M,Q699619,way
 Hrebendova,wikidata,M,Q12771192,way
@@ -96,8 +106,11 @@ Husova,wikidata,M,Q43977,way
 Húščavova,wikidata,M,Q10770813,way
 Hviezdoslavova,wikidata,M,Q508663,way
 "Hviezdoslavovo námestie",wikidata,M,Q508663,relation+way
+Hýrošova,wikidata,M,Q13371650,way
 "Imricha Karvaša",wikidata,M,Q6008389,way
 "Ivana Bukovčana",wikidata,M,Q12767652,way
+Iľjušinova,wikidata,M,Q175457,way
+Jamnického,wikidata,M,Q12027375,way
 "Jána Jonáša",wikidata,M,Q13421315,way
 "Jána Poničana",wikidata,M,Q12768607,way
 "Jána Raka",wikidata,M,Q12027461,way
@@ -106,45 +119,60 @@ Janáčkova,wikidata,M,Q184933,way
 "Janka Alexyho",wikidata,M,Q1682808,way
 "Janka Kráľa",wikidata,M,Q376416,way
 Jánošíkova,wikidata,M,Q706268,way
+Janšákova,wikidata,M,Q253963,way
 Jarošova,wikidata,M,Q156070,way
 Jašíkova,wikidata,M,Q12775548,way
 Jedlíkova,wikidata,M,Q252142,way
 Jégého,wikidata,M,Q3489739,way
+Jeséniova,wikidata,M,Q699651,way
 Jesenského,wikidata,M,Q662143,way
 Jiráskova,wikidata,M,Q161368,way
 "Jozefa Cígera Hronského",wikidata,M,Q979946,way
 "Jozefa Kronera",wikidata,M,Q511930,way
+Jungmannova,wikidata,M,Q508939,way
 "Jura Hronca",wikidata,M,Q6314717,way
 Jurkovičova,wikidata,M,Q3563677,way
 Jurovského,wikidata,M,Q391641,way
 Kafendova,wikidata,M,Q3505734,way
 Kalinčiakova,wikidata,M,Q2467280,way
-"Kapitána Jána Rašu",wikidata,M,Q20851918,way
+Kapicova,wikidata,M,Q172844,way
 Karadžičova,wikidata,M,Q202815,way
+Klemensova,wikidata,M,Q8420126,way
 Klimkovičova,wikidata,M,Q18511597,way
+Klokočova,wikidata,M,Q12042643,way
 "Kmeťovo námestie",wikidata,M,Q765336,way
 Koceľova,wikidata,M,Q709663,way
 Kollárova,wikidata,M,Q220550,way
 "Kollárovo námestie",wikidata,M,Q220550,way
 "Komenského námestie",wikidata,M,Q12735,way
+Korabinského,wikidata,M,Q1118827,way
 Kostlivého,wikidata,M,Q12776645,way
+Kozičova,wikidata,M,Q18396703,way
+"Kpt. Jána Rašu",wikidata,M,Q20851918,way
 Kraskova,wikidata,M,Q1675575,way
 Križkova,wikidata,M,Q1121255,way
 Krmanova,wikidata,M,Q543073,way
+Krupkova,wikidata,M,Q12766025,way
 Krčméryho,wikidata,M,Q4181190,way
+Kubániho,wikidata,M,Q4025643,way
 Kukučínova,wikidata,M,Q1384769,way
 Kupeckého,wikidata,M,Q700163,way
 Kuzmányho,wikidata,M,Q697863,way
+Kvačalova,wikidata,M,Q1122517,way
+Lachova,wikidata,M,Q12768513,way
 "Ladislava Dérera",wikidata,M,Q12032480,way
 "Ladislava Sáru",wikidata,M,Q12770129,way
+Ladzianskeho,wikidata,M,Q12768737,way
 Langsfeldova,wikidata,M,Q18595457,way
 Laskomerského,wikidata,M,Q11736366,way
 Laurinská,wikidata,M,Q17590,way
 Lehockého,wikidata,M,Q11878447,way
+Lenardova,wikidata,M,Q57063,way
 Lermontovova,wikidata,M,Q46599,way
 Lichardova,wikidata,M,Q3701605,way
 Lomonosovova,wikidata,M,Q58720,way
 "M. Schneidra Trnavského",wikidata,M,Q3506661,way
+Macharova,wikidata,M,Q713271,way
 Majakovského,wikidata,M,Q132964,way
 Majerníkova,wikidata,M,Q7940636,way
 Makovického,wikidata,M,Q2055549,way
@@ -227,6 +255,7 @@ Tolstého,wikidata,M,Q7243,way
 Tomášikova,wikidata,M,Q1363993,way
 Tranovského,wikidata,M,Q1080664,way
 "Trhovisko Jedlíkova",wikidata,M,Q252142,way
+Tupolevova,wikidata,M,Q219734,way
 Tvarožkova,wikidata,M,Q12777617,way
 Uhrova,wikidata,M,Q12771735,way
 Urbánkova,wikidata,M,Q12004160,way
