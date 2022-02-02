@@ -78,7 +78,6 @@ Estónska,wikidata,,Q191,way
 Fazuľová,wikidata,,Q310438,way
 "Fialkové údolie",wikidata,,Q108684,way
 Fikusová,wikidata,,Q59798,way
-"Francúzskych partizánov",wikidata,,Q212948,way
 "Františkánske námestie",wikidata,,Q1450292,way
 Gerulatská,wikidata,,Q1309632,way
 Goralská,wikidata,,Q498700,way
@@ -157,7 +156,7 @@ Krupinská,wikidata,,Q756667,way
 Kubínska,wikidata,,Q589309,way
 Kuklovská,wikidata,,Q1070270,way
 Kúkoľová,wikidata,,Q147852,way
-Kunerádska,wikidata,,Q211973,way
+Kuneradská,wikidata,,Q211973,way
 Kúpeľná,wikidata,,Q12770014,way
 Kvetná,wikidata,,Q506,way
 Kyjevská,wikidata,,Q1899,way
@@ -430,6 +429,7 @@ Zelená,wikidata,,Q3133,way
 Zeleninová,wikidata,,Q11004,way
 Znievska,wikidata,,Q3493812,way
 Čakanková,wikidata,,Q2544599,way
+Čaklovská,wikidata,,Q337566,way
 Čalovská,wikidata,,Q740469,way
 Čerešňová,wikidata,,Q165137,way
 Černicová,wikidata,,Q13541716,way
@@ -475,6 +475,7 @@ Ambroseho,,,,way
 Ambrova,,,,way
 Ametystová,,,,way
 "Andreja Hadíka",,,,way
+"Andreja Plávku",,,,way
 Antická,,,,way
 "Antona Durvaya",,,,way
 "Antona Floreka",,,,way
@@ -632,6 +633,7 @@ Edisonova,,,,way
 "Edlova cesta",,,,way
 Eisnerova,,,,way
 Elektrárenská,,,,way
+"F. Kostku",,,,way
 Farebná,,,,way
 Farmárska,,,,way
 Farská,,,,way
@@ -642,6 +644,7 @@ Firmova,,,,way
 Fiľakovská,,,,way
 Fláviovská,,,,way
 Fongová,,,,way
+"Francúzskych partizánov",,,,way
 Frankovská,,,,way
 "Františka Oswalda",,,,way
 "Františka Schmuckera",,,,way
@@ -784,8 +787,8 @@ Jonatánová,,,,way
 Jurská,,,,way
 Justičná,,,,way
 "K Horánskej studni",,,,way
-"K Zlatému rohu",,,,way
 "K pasienkom",,,,way
+"K zlatému rohu",,,,way
 Kadnárova,,,,way
 Kajerka,,,,way
 Kalinová,,,,way
@@ -798,6 +801,7 @@ Kaplinská,,,,way
 Kapsičková,,,,way
 Kapsohradská,,,,way
 "Karloveské rameno",,,,way
+"Karola Adlera",,,,way
 "Karpatské námestie",,,,way
 "Kartina a Soniky",,,,way
 Kašmírska,,,,way
@@ -916,7 +920,7 @@ Litovská,,,,way
 Lombardiniho,,,,way
 Lomnická,,,,way
 Longobardská,,,,way
-Lónyaiova,,,,way
+Lónyaiová,,,,way
 Lopárska,,,,way
 Lopenícka,,,,way
 Lopúchová,,,,way
@@ -1010,7 +1014,6 @@ Myjavská,,,,way
 "Na Koziarke",,,,way
 "Na Križovatkách",,,,way
 "Na Krčoch",,,,way
-"Na Mýte",,,,way
 "Na Revíne",,,,way
 "Na Riviére",,,,way
 "Na Roličkách",,,,way
@@ -1028,6 +1031,7 @@ Myjavská,,,,way
 "Na križovatkách",,,,way
 "Na lánoch",,,,way
 "Na medzi",,,,way
+"Na mýte",,,,way
 "Na pántoch",,,,way
 "Na pasekách",,,,way
 "Na piesku",,,,way
@@ -1238,7 +1242,6 @@ Prešernova,,,,way
 "Pri Dynamitke",,,,way
 "Pri Habánskom mlyne",,,,way
 "Pri Hrubej lúke",,,,way
-"Pri Pieskovom hone",,,,way
 "Pri Rusovskom ramene",,,,way
 "Pri Šajbách",,,,way
 "Pri Seči",,,,way
@@ -1255,6 +1258,7 @@ Prešernova,,,,way
 "Pri letisku",,,,way
 "Pri nadjazde",,,,way
 "Pri parku",,,,way
+"Pri pieskovom hone",,,,way
 "Pri potoku",,,,way
 "Pri šanci",,,,way
 "Pri smaltovni",,,,way
@@ -1348,6 +1352,7 @@ SLALOMKA,,,,way
 Šachorová,,,,way
 "Sad J. Kráľa",,,,way
 Sadmelijská,,,,way
+Šagátova,,,,way
 Šaldova,,,,way
 Samova,,,,way
 Šancová,,,,way
@@ -1432,7 +1437,7 @@ Staničná,,,,way
 "Stará Stupavská",,,,way
 "Stará vinárska",,,,way
 "Stará Černicová",,,,way
-"Staré grunty",,,,way
+"Staré Grunty",,,,way
 "Staré ihrisko",,,,way
 "Staré záhrady",,,,way
 Staromlynská,,,,way
@@ -1562,7 +1567,6 @@ Valchárska,,,,way
 Valentiniánova,,,,way
 Vansovej,,,,way
 Vápencová,,,,way
-Vápenka,,,,way
 Vápenná,,,,way
 Varšavská,,,,way
 Vavrinecká,,,,way
@@ -1618,6 +1622,7 @@ Wattova,,,,way
 "Za stanicou",,,,way
 "Za tehelňou",,,,way
 Zadarská,,,,way
+"Zadné vstupné schodište - východ",,,,way
 Zafírová,,,,way
 Záhorácka,,,,way
 Záhorská,,,,way
@@ -1660,7 +1665,6 @@ Zvončeková,,,,way
 "starý Krasnanský trail",,,,way
 "vstup do Horského parku zo zastávky MHD Horský park",,,,way
 Čachtická,,,,way
-Čaklovská,,,,way
 Čárskeho,,,,way
 Čavojského,,,,way
 Čerencová,,,,way

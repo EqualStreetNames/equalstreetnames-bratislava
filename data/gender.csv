@@ -1,11 +1,11 @@
 name,source,gender,wikidata,type
-"Alžbety Gwerkovej",wikidata,F,Q12762214,way
+"A. Gwerkovej",wikidata,F,Q12762214,way
 "Boženy Němcovej",wikidata,F,Q157970,way
 Gregorovej,wikidata,F,Q12018957,way
 "Hany Meličkovej",wikidata,F,Q12018973,way
 "Hany Ponickej",wikidata,F,Q2604414,way
 "Kristy Bendovej",wikidata,F,Q12031483,way
-"Marie Curie Sklodowskej",wikidata,F,Q7186,way
+"M. Curie Sklodowskej",wikidata,F,Q7186,way
 Martákovej,wikidata,F,Q12772194,way
 Podjavorinskej,wikidata,F,Q10545696,way
 Šoltésovej,wikidata,F,Q12765281,way
@@ -15,7 +15,6 @@ Adámiho,wikidata,M,Q1412908,way
 Albrechtova,wikidata,M,Q2120985,way
 Alešova,wikidata,M,Q446948,way
 "Andreja Mráza",wikidata,M,Q12762310,way
-"Andreja Plávku",wikidata,M,Q12762314,way
 Andrusovova,wikidata,M,Q369844,way
 Bachova,wikidata,M,Q1339,way
 Bagarova,wikidata,M,Q3506294,way
@@ -62,7 +61,6 @@ Fándlyho,wikidata,M,Q898705,way
 Farského,wikidata,M,Q1729156,way
 Fedákova,wikidata,M,Q12768451,way
 Fedinova,wikidata,M,Q704015,way
-"Ferdiša Kostku",wikidata,M,Q12003673,way
 Ferienčíkova,wikidata,M,Q12771658,way
 Flöglova,wikidata,M,Q13375679,way
 "Floriánske námestie",wikidata,M,Q298845,way
@@ -141,7 +139,6 @@ Kafendova,wikidata,M,Q3505734,way
 Kalinčiakova,wikidata,M,Q2467280,way
 Kapicova,wikidata,M,Q172844,way
 Karadžičova,wikidata,M,Q202815,way
-"Karola Adlera",wikidata,M,Q12028759,way
 Klemensova,wikidata,M,Q8420126,way
 Klimkovičova,wikidata,M,Q18511597,way
 Klokočova,wikidata,M,Q12042643,way
@@ -176,6 +173,7 @@ Lenardova,wikidata,M,Q57063,way
 Lermontovova,wikidata,M,Q46599,way
 Lichardova,wikidata,M,Q3701605,way
 Lomonosovova,wikidata,M,Q58720,way
+"M. Schneidra Trnavského",wikidata,M,Q3506661,way
 Macharova,wikidata,M,Q713271,way
 Majakovského,wikidata,M,Q132964,way
 Majerníkova,wikidata,M,Q7940636,way
@@ -190,7 +188,6 @@ Matúškova,wikidata,M,Q975382,way
 Metodova,wikidata,M,Q470621,way
 Mickiewiczova,wikidata,M,Q79822,way
 Mikovíniho,wikidata,M,Q530425,way
-"Mikuláša Schneidera-Trnavského",wikidata,M,Q3506661,way
 Miletičova,wikidata,M,Q1255113,way
 Mojmírova,wikidata,M,Q433975,way
 Moyzesova,wikidata,M,Q392368,way
@@ -200,6 +197,7 @@ Mudrochova,wikidata,M,Q12027436,way
 Mudroňova,wikidata,M,Q12027437,way
 Murgašova,wikidata,M,Q980550,way
 "Nábrežie Milana Rastislava Štefánika",wikidata,M,Q319962,relation+way
+"Nábrežie arm. gen. Ludvíka Svobodu",wikidata,M,Q310000,way
 "Nábrežie armádneho generála Ludvíka Svobodu",wikidata,M,Q310000,way
 Nábělkova,wikidata,M,Q12770577,way
 "Námestie Alexandra Dubčeka",wikidata,M,Q150543,way
