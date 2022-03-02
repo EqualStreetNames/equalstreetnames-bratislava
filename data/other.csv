@@ -309,8 +309,9 @@ Riečna,wikidata,,Q4022,way
 Rímska,wikidata,,Q220,way
 Rosná,wikidata,,Q41097,way
 Rovníková,wikidata,,Q23538,way
+Rozžňavská,wikidata,,Q26175,way
 Roľnícka,wikidata,,Q838811,way
-Rožňavská,wikidata,,Q267888,way
+Rožňavská,wikidata,,Q26175;Q267888,way
 Rumančeková,wikidata,,Q28437,way
 "Rusovská cesta",wikidata,,Q1091791,way
 Ružinovská,wikidata,,Q934473,way
@@ -853,7 +854,6 @@ Krahulčia,,,,way
 Krajinská,,,,way
 "Krajinská cesta",,,,way
 Krasinského,,,,way
-"Krasnansky trail",,,,way
 Krasovského,,,,way
 Krasňanská,,,,way
 Kratiny,,,,way
@@ -1449,7 +1449,6 @@ Staviteľská,,,,way
 Štedrá,,,,way
 "Štefana Majera",,,,way
 "Štefana Rosívala",,,,way
-"Štefánikova magistrála",,,,way
 "Steinov dvor",,,,way
 Štepná,,,,way
 Štetinova,,,,way
@@ -1528,7 +1527,6 @@ Tomanova,,,,way
 Topásová,,,,way
 Továrenská,,,,way
 "Trail Krivé Járky",,,,way
-"Trail Pekná Cesta",,,,way
 "Trail Písaný Kameň",,,,way
 Trajánova,,,,way
 Tramínová,,,,way
@@ -1662,7 +1660,6 @@ Zohorská,,,,way
 Zrínskeho,,,,way
 Zvolenská,,,,way
 Zvončeková,,,,way
-"starý Krasnanský trail",,,,way
 "vstup do Horského parku zo zastávky MHD Horský park",,,,way
 Čachtická,,,,way
 Čárskeho,,,,way
