@@ -309,9 +309,8 @@ Riečna,wikidata,,Q4022,way
 Rímska,wikidata,,Q220,way
 Rosná,wikidata,,Q41097,way
 Rovníková,wikidata,,Q23538,way
-Rozžňavská,wikidata,,Q26175,way
 Roľnícka,wikidata,,Q838811,way
-Rožňavská,wikidata,,Q26175;Q267888,way
+Rožňavská,wikidata,,Q267888,way
 Rumančeková,wikidata,,Q28437,way
 "Rusovská cesta",wikidata,,Q1091791,way
 Ružinovská,wikidata,,Q934473,way
@@ -481,6 +480,7 @@ Antická,,,,way
 "Antona Durvaya",,,,way
 "Antona Floreka",,,,way
 "Antona Moyša",,,,way
+Aragonitová,,,,way
 "Art passage",,,,way
 Astrová,,,,way
 Attidova,,,,way
@@ -530,7 +530,6 @@ Botanická,,,,way
 Bočná,,,,way
 Bradáčova,,,,way
 Bratislava,,,,relation
-"Bratislava-Gagarinova ul.",,,,way
 Bratislavská,,,,way
 Bratská,,,,way
 Brezovská,,,,way
@@ -593,7 +592,6 @@ Delená,,,,way
 Demänovská,,,,way
 Detvianska,,,,way
 Devätinová,,,,way
-"Devínske Jazero",,,,way
 Diamantová,,,,way
 Dlhá,,,,way
 "Dlhé diely I",,,,way
@@ -647,6 +645,7 @@ Fláviovská,,,,way
 Fongová,,,,way
 "Francúzskych partizánov",,,,way
 Frankovská,,,,way
+"Františka Kubu",,,,way
 "Františka Oswalda",,,,way
 "Františka Schmuckera",,,,way
 Františkánska,,,,way
@@ -767,6 +766,7 @@ Jaroslavova,,,,way
 Jarovce,,,,way
 Jasencová,,,,way
 Jasná,,,,way
+Jaspisová,,,,way
 Jastrabia,,,,way
 Jastrabinová,,,,way
 Javorinská,,,,way
@@ -991,7 +991,7 @@ Morušová,,,,way
 Moskovská,,,,way
 Mošovského,,,,way
 "Most Apollo",,,,way
-"Most Lafranconi",,,,way
+"Most Lanfranconi",,,,way
 "Most SNP",,,,way
 Mostová,,,,way
 Moyšova,,,,way
@@ -1102,6 +1102,8 @@ Odbojárov,,,,way
 Odborárska,,,,way
 "Odborárske námestie",,,,way
 Offroad,,,,way
+"Offroad Parcour",,,,way
+"Offroad draha Volkswagen",,,,way
 Okánikova,,,,way
 Okružná,,,,way
 Oleandrová,,,,way
@@ -1110,6 +1112,7 @@ Ollarekova,,,,way
 Olšová,,,,way
 "Ondreja Štefanka",,,,way
 Ondrejská,,,,way
+Ónyxová,,,,way
 Opavská,,,,way
 Oranžová,,,,way
 Oravská,,,,way
@@ -1159,6 +1162,7 @@ Pažického,,,,way
 Pažítková,,,,way
 "Pekná vyhliadka",,,,way
 Perličková,,,,way
+Perlová,,,,way
 Pernecká,,,,way
 Pestovateľská,,,,way
 "Petara Pasicha",,,,way
@@ -1337,6 +1341,7 @@ Rubínová,,,,way
 Rubinsteinova,,,,way
 Rudavská,,,,way
 Rudnícka,,,,way
+Rudroffova,,,,way
 Rulandská,,,,way
 Rumunská,,,,way
 Rustaveliho,,,,way
@@ -1534,6 +1539,7 @@ Trávna,,,,way
 Trebuľková,,,,way
 Treskoňova,,,,way
 Trhová,,,,way
+Trojdomy,,,,way
 Trstínska,,,,way
 Tuhovská,,,,way
 Tulipánová,,,,way
@@ -1660,7 +1666,6 @@ Zohorská,,,,way
 Zrínskeho,,,,way
 Zvolenská,,,,way
 Zvončeková,,,,way
-"vstup do Horského parku zo zastávky MHD Horský park",,,,way
 Čachtická,,,,way
 Čárskeho,,,,way
 Čavojského,,,,way
