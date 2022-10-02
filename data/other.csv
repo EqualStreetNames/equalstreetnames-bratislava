@@ -181,7 +181,7 @@ Magurská,wikidata,,Q394682,way
 Majoránová,wikidata,,Q22694,way
 Májová,wikidata,,Q119,way
 Malodunajská,wikidata,,Q937294,way
-"Malokarpatské námestie",wikidata,,Q426712,way
+"Malokarpatské námestie",wikidata,,Q426712,relation+way
 Mandľová,wikidata,,Q12770970,way
 Margarétová,wikidata,,Q21040,way
 Marhuľová,wikidata,,Q12771024,way
@@ -217,7 +217,7 @@ Nábrežná,wikidata,,Q1851368,way
 "Nad lúčkami",wikidata,,Q7777019,way
 "Námestie 1. mája",wikidata,,Q47499,way
 "Námestie 6. apríla",wikidata,,Q2506,way
-"Námestie Slovenského národného povstania",wikidata,,Q163780,way
+"Námestie SNP",wikidata,,Q163780,way
 "Námestie hraničiarov",wikidata,,Q2100653,way
 "Námestie republiky",wikidata,,Q7270,way
 "Námestie slobody",wikidata,,Q2979,way
@@ -497,7 +497,6 @@ Banšelova,,,,way
 Barancová,,,,way
 Bardejovská,,,,way
 Bárdošova,,,,way
-"Barokový most",,,,way
 Barónka,,,,way
 Bartoškova,,,,way
 Bartoňova,,,,way
@@ -833,6 +832,7 @@ Konopiská,,,,way
 Konopná,,,,way
 Konvalinková,,,,way
 Kopanice,,,,way
+Kopaničarska,,,,way
 Koperníkova,,,,way
 Koprivnická,,,,way
 Korálová,,,,way
@@ -928,7 +928,6 @@ Lozornianska,,,,way
 Lubinská,,,,way
 Luhačovická,,,,way
 Lužická,,,,way
-"Lužný most",,,,way
 Lýcejná,,,,way
 Lykovcová,,,,way
 Lysákova,,,,way
@@ -1060,9 +1059,9 @@ Nákupná,,,,way
 "Námestie Biely kríž",,,,way
 "Námestie F. X. Messerschmidta",,,,way
 "Námestie F.X. Messerschmidta",,,,way
-"Námestie Nežnej revolúcie",,,,way
 "Námestie T. G. Masaryka",,,,way
 "Námestie Titusa Zemana",,,,way
+"Námestie nežnej revolúcie",,,,way
 "Námestie pri sýpke",,,,way
 "Námestie pri zimnom štadióne",,,,relation
 "Námestie rodiny",,,,way
@@ -1129,7 +1128,7 @@ Osijecká,,,,way
 Oskorušová,,,,way
 Osloboditeľská,,,,way
 Ostravská,,,,way
-Ostricova,,,,way
+Ostricová,,,,way
 Ostriežová,,,,way
 Osvetová,,,,way
 "Ota Holúska",,,,way
@@ -1148,6 +1147,7 @@ Pántikova,,,,way
 Parcelná,,,,way
 Parenicová,,,,way
 Parková,,,,way
+Párna,,,,way
 "Pasáž Elektro",,,,way
 "Pasáž Luxor",,,,way
 "Pasáž Rybárska brána",,,,way
@@ -1198,8 +1198,10 @@ Plzenská,,,,way
 "Pod Rakytami",,,,way
 "Pod Rovnicami",,,,way
 "Pod Vachmajstrom",,,,way
+"Pod Vajspetrom",,,,way
 "Pod Válkom",,,,way
 "Pod Vtáčnikom",,,,way
+"Pod Zemným vrchom",,,,way
 "Pod Zečákom",,,,way
 "Pod brehmi",,,,way
 "Pod gaštanmi",,,,way
@@ -1264,6 +1266,7 @@ Prešernova,,,,way
 "Pri parku",,,,way
 "Pri pieskovom hone",,,,way
 "Pri potoku",,,,way
+"Pri rybníku",,,,way
 "Pri šanci",,,,way
 "Pri smaltovni",,,,way
 "Pri štadióne",,,,way
@@ -1330,6 +1333,7 @@ Rizlingová,,,,way
 Robotnícka,,,,way
 Rošického,,,,way
 Rostovská,,,,way
+Rovinka,,,,way
 Rovná,,,,way
 "Royko pasáž",,,,way
 Rozálska,,,,way
@@ -1357,7 +1361,7 @@ SLALOMKA,,,,way
 Šachorová,,,,way
 "Sad J. Kráľa",,,,way
 Sadmelijská,,,,way
-Šagátova,,,,way
+Šagátová,,,,way
 Šaldova,,,,way
 Samova,,,,way
 Šancová,,,,way
@@ -1666,6 +1670,7 @@ Zohorská,,,,way
 Zrínskeho,,,,way
 Zvolenská,,,,way
 Zvončeková,,,,way
+"k internátu",,,,way
 Čachtická,,,,way
 Čárskeho,,,,way
 Čavojského,,,,way
