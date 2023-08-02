@@ -485,7 +485,6 @@ Attidova,,,,way
 "Augustína Murína",,,,way
 Auréliova,,,,way
 Azúrová,,,,way
-BANÍK,,,,way
 Babuškova,,,,way
 Baltská,,,,way
 Bancíkovej,,,,way
@@ -1078,6 +1077,7 @@ Nerudova,,,,way
 Nevská,,,,way
 Nezábudková,,,,way
 Nová,,,,way
+"Nová Koziarka",,,,way
 "Nová Manina",,,,way
 Novackého,,,,way
 "Nové Šuty",,,,way
@@ -1246,6 +1246,7 @@ Poľovnícka,,,,way
 Prasličková,,,,way
 Pračanská,,,,way
 Prešernova,,,,way
+"Pri Bielom Kríži",,,,way
 "Pri Bielom kríži",,,,way
 "Pri Dynamitke",,,,way
 "Pri Habánskom mlyne",,,,way
@@ -1357,10 +1358,9 @@ Ruženínová,,,,way
 Ružičková,,,,way
 Ružomberská,,,,way
 "Ružová dolina",,,,way
-"Rybné námestie",,,,way
+"Rybné námestie",,,,relation
 Rýdziková,,,,way
 Rýnska,,,,way
-SLALOMKA,,,,way
 Šachorová,,,,way
 "Sad J. Kráľa",,,,way
 Sadmelijská,,,,way
@@ -1394,8 +1394,6 @@ Severovcov,,,,way
 Sihoť,,,,relation
 Šikmá,,,,way
 Silvánska,,,,way
-"Singletrack Cerová dráha",,,,way
-"Singletrack Cerová dráha (segment Malý Slavín - Údolie Vydrice)",,,,way
 Šinkovské,,,,way
 Sinokvetná,,,,way
 Šípková,,,,way
@@ -1406,6 +1404,7 @@ Skalníková,,,,way
 Škarniclova,,,,way
 Skerličova,,,,way
 Sklabinská,,,,way
+Skladištná,,,,way
 Sklenárska,,,,way
 Školská,,,,way
 Škovránčia,,,,way
@@ -1512,9 +1511,6 @@ Szapáryho,,,,way
 Szigetköz,,,,relation
 Sĺňavská,,,,way
 Šťastná,,,,way
-"TBK 1",,,,way
-"TBK 2",,,,way
-"TBK 3",,,,way
 Tablicova,,,,way
 Táborská,,,,way
 Talichova,,,,way
@@ -1539,8 +1535,6 @@ Tomanova,,,,way
 "Tomislava P. Kolakoviča",,,,way
 Topásová,,,,way
 Továrenská,,,,way
-"Trail Krivé Járky",,,,way
-"Trail Písaný Kameň",,,,way
 Trajánova,,,,way
 Tramínová,,,,way
 Trávna,,,,way
