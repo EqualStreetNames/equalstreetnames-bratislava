@@ -103,6 +103,7 @@ Inovecká,wikidata,,Q2153837,way
 Ipeľská,wikidata,,Q748872,relation
 Iskerníková,wikidata,,Q145869,relation
 Istrijská,wikidata,,Q639912,relation
+"Ivanská cesta",wikidata,,Q302787,relation+way
 Jalovcová,wikidata,,Q26325,way
 Jantárová,wikidata,,Q25381,relation
 "Jantárová cesta",wikidata,,Q239574,relation
@@ -120,7 +121,7 @@ Junácka,wikidata,,Q7541920,relation
 Júnová,wikidata,,Q120,way
 "K lomu",wikidata,,Q188040,relation
 "K Železnej studienke",wikidata,,Q3492846,relation
-"Kamenné námestie",wikidata,,Q22731,relation
+"Kamenné námestie",wikidata,,Q22731,relation+way
 Kamilková,wikidata,,Q28437,way
 Kapitulská,wikidata,,Q237306,relation
 Kapucínska,wikidata,,Q124862,way
@@ -198,6 +199,7 @@ Mládežnícka,wikidata,,Q190007,relation
 Mlynská,wikidata,,Q44494,relation
 Modricová,wikidata,,Q161151,relation
 Moldavská,wikidata,,Q846440,way
+"Most SNP",wikidata,,Q163780,way
 Mostná,wikidata,,Q12280,way
 Motýlia,wikidata,,Q28319,way
 Mramorová,wikidata,,Q40861,way
@@ -334,7 +336,7 @@ Siedma,wikidata,,Q23350,way
 Sitnianska,wikidata,,Q1621423,way
 Skorocelová,wikidata,,Q157408,way
 Slatinská,wikidata,,Q1813485,way
-"Slávičie údolie",wikidata,,Q25393,relation
+"Slávičie údolie",wikidata,,Q25393,relation+way
 Sliačska,wikidata,,Q258439,relation
 Slnečnicová,wikidata,,Q171497,way
 "Slovanské nábrežie",wikidata,,Q40477,relation
@@ -527,6 +529,7 @@ Bočná,,,,relation
 Bradáčova,,,,relation
 Bratislava,,,,relation
 Bratislavská,,,,way
+"Bratislavská pasáž",,,,way
 "Bratislavský downtown",,,,relation
 Bratská,,,,relation
 Brezovská,,,,way
@@ -562,7 +565,6 @@ Cédrová,,,,way
 "Cesta na Klanec",,,,relation+way
 "Cesta na Kopáč",,,,way
 "Cesta na Senec",,,,relation
-"Cesta na Zajačie",,,,way
 "Cesta pri Biskupickom ramene",,,,way
 Cezmínová,,,,way
 Chalcedónová,,,,way
@@ -636,6 +638,7 @@ Fibichova,,,,way
 Figová,,,,way
 Firmova,,,,way
 Fiľakovská,,,,way
+Fláviovska,,,,way
 Fláviovská,,,,way
 Fongová,,,,way
 "Francúzskych partizánov",,,,relation
@@ -737,7 +740,6 @@ Irisová,,,,way
 Irkutská,,,,way
 Iršajská,,,,way
 "Ivana Kadlečíka",,,,way
-"Ivanská cesta",,,,relation
 "J. Valašťana Dolinského",,,,way
 Jabloňová,,,,way
 "Jabloňový sad",,,,way
@@ -794,6 +796,7 @@ Kalištná,,,,way
 Kaméliová,,,,relation
 Kamenárska,,,,way
 Kamenná,,,,way
+"Kamenný most v bažantnici",,,,way
 Kananefatská,,,,way
 Kaplinská,,,,way
 Kapsičková,,,,way
@@ -939,15 +942,15 @@ Maková,,,,way
 Malá,,,,way
 Malachitová,,,,way
 Malagová,,,,way
-"Malé pálenisko I",,,,way
-"Malé pálenisko III",,,,way
-"Malé pálenisko IV",,,,way
+"Malé Pálenisko I",,,,way
+"Malé Pálenisko III",,,,way
 Malinová,,,,way
 Malokrasňanská,,,,way
 Málová,,,,way
 "Malý trh",,,,way
 Mamateyova,,,,relation
 Mandľovníková,,,,relation
+Manina,,,,way
 "Marchfeld Schnellstraße",,,,way
 "Mariána Kochanského",,,,way
 Mariánska,,,,relation
@@ -964,7 +967,6 @@ Merlotová,,,,way
 Mestská,,,,way
 Mečíková,,,,relation
 "Michala Bučiča",,,,way
-"Micherova zátoka",,,,way
 "Milana Kolibiara",,,,way
 "Milana Marečka",,,,way
 "Milana Šimečku",,,,way
@@ -987,7 +989,6 @@ Moskovská,,,,way
 Mošovského,,,,way
 "Most Apollo",,,,way
 "Most Lanfranconi",,,,way
-"Most SNP",,,,way
 Mostová,,,,way
 Moyšova,,,,way
 Mraziarenská,,,,way
@@ -1077,8 +1078,8 @@ Nezábudková,,,,relation
 Nová,,,,way
 "Nová Koziarka",,,,way
 Novackého,,,,way
+"Nové Pálenisko",,,,way
 "Nové Šuty",,,,way
-"Nové pálenisko",,,,way
 "Nové záhrady I",,,,way
 "Nové záhrady II",,,,way
 "Nové záhrady III",,,,way
@@ -1094,7 +1095,6 @@ Novosadná,,,,way
 Novosvetská,,,,relation
 Novoveská,,,,way
 "Nový záhon",,,,way
-"Obchvat Bratislavy",,,,way
 Oblačná,,,,way
 Odbojárov,,,,way
 Odborárska,,,,way
@@ -1118,7 +1118,6 @@ Oráčska,,,,way
 Orechová,,,,way
 "Orechový rad",,,,way
 Orešianková,,,,way
-"Orient pasáž",,,,way
 Oriešková,,,,way
 Orlíčková,,,,way
 Ormisova,,,,way
@@ -1197,7 +1196,7 @@ Plzenská,,,,way
 "Pod Mníšskou horou",,,,way
 "Pod Rakytami",,,,way
 "Pod Rovnicami",,,,way
-"Pod Vachmajstrom",,,,relation+way
+"Pod Vachmajstrom",,,,relation
 "Pod Vajspetrom",,,,way
 "Pod Válkom",,,,way
 "Pod Vtáčnikom",,,,way
@@ -1360,7 +1359,7 @@ Ružomberská,,,,way
 Rýdziková,,,,way
 Rýnska,,,,way
 Šachorová,,,,relation
-"Sad J. Kráľa",,,,way
+"Sad Janka Kráľa",,,,way
 Sadmelijská,,,,way
 Šagátová,,,,way
 Šaldova,,,,way
@@ -1593,7 +1592,7 @@ Vislianska,,,,way
 Víťazná,,,,way
 "Vladimíra Jukla",,,,way
 Vlašská,,,,way
-"Vlčie hrdlo",,,,relation
+"Vlčie hrdlo",,,,relation+way
 Vlčkova,,,,way
 "Vnútorné mesto",,,,relation
 "Vojtecha Ondroucha",,,,way
@@ -1610,6 +1609,7 @@ Vrchná,,,,way
 Vresová,,,,way
 Vretenová,,,,way
 Vrútocká,,,,way
+"Vtáčie údolie",,,,way
 "Vtáčikova cesta",,,,way
 Vukovarská,,,,way
 Východná,,,,way
