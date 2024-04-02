@@ -56,7 +56,7 @@ Břeclavská,wikidata,,Q581478,way
 "Cesta na Červený most",wikidata,,Q28793285,relation
 Charkovská,wikidata,,Q42308,way
 Chorvátska,wikidata,,Q224,relation
-Cintorínska,wikidata,,Q39614,relation
+Cintorínska,wikidata,,Q39614,relation+way
 Cukrová,wikidata,,Q11002,way
 Cyrilova,wikidata,,Q239925,way
 "Daliborovo námestie",wikidata,,Q855839,relation+way
@@ -84,7 +84,7 @@ Haburská,wikidata,,Q584931,relation
 "Hadia cesta",wikidata,,Q2102,relation
 Handlovská,wikidata,,Q842011,relation
 Harmanecká,wikidata,,Q662883,way
-Herlianska,wikidata,,Q550565,relation
+Herlianska,wikidata,,Q550565,relation+way
 Hnilecká,wikidata,,Q743746,way
 Hodonínska,wikidata,,Q321778,relation
 Holíčska,wikidata,,Q653326,relation
@@ -250,7 +250,7 @@ Palisády,wikidata,,Q90685,relation
 Palmová,wikidata,,Q1096533,way
 Panenská,wikidata,,Q344878,relation
 "Panónska cesta",wikidata,,Q170062,relation+way
-Panská,wikidata,,Q343386,relation
+Panská,wikidata,,Q343386,relation+way
 Papraďová,wikidata,,Q56823139,way
 Partizánska,wikidata,,Q212948,relation
 "Pekná cesta",wikidata,,Q7242,relation
@@ -314,7 +314,7 @@ Rožňavská,wikidata,,Q267888,relation+way
 Rumančeková,wikidata,,Q28437,way
 "Rusovská cesta",wikidata,,Q1091791,relation+way
 Ružinovská,wikidata,,Q934473,relation
-"Rybárska brána",wikidata,,Q331432,relation
+"Rybárska brána",wikidata,,Q331432,relation+way
 Rybničná,wikidata,,Q1265665,relation
 Rytierska,wikidata,,Q102083,relation
 Sabinovská,wikidata,,Q837478,relation
@@ -393,7 +393,7 @@ Uhorková,wikidata,,Q23425,way
 Ukrajinská,wikidata,,Q212,way
 Urbárska,wikidata,,Q413938,relation+way
 Urpínska,wikidata,,Q4177997,way
-Uršulínska,wikidata,,Q13425267,relation
+Uršulínska,wikidata,,Q13425267,relation+way
 Úzka,wikidata,,Q12781901,way
 Učiteľská,wikidata,,Q37226,relation
 "V záhradách",wikidata,,Q1107656,way
@@ -693,7 +693,7 @@ Havrania,,,,relation
 Hlavatého,,,,way
 Hlaváčikova,,,,relation
 Hlavná,,,,relation
-"Hlavné námestie",,,,relation
+"Hlavné námestie",,,,relation+way
 Hlbinná,,,,way
 "Hlboká cesta",,,,relation
 Hlinícka,,,,way
@@ -831,7 +831,6 @@ Koncová,,,,way
 Koniarkova,,,,way
 Konopiská,,,,way
 Konopná,,,,way
-Konvalinková,,,,way
 Kopanice,,,,way
 Kopaničarska,,,,way
 Koperníkova,,,,way
@@ -1291,7 +1290,7 @@ Priemyselná,,,,way
 Priečna,,,,way
 Príjazdná,,,,relation
 Príkopova,,,,way
-"Primaciálne námestie",,,,relation
+"Primaciálne námestie",,,,relation+way
 Prímoravská,,,,way
 Prípojná,,,,way
 "Prístavný most",,,,way
@@ -1623,6 +1622,7 @@ Výtvarná,,,,way
 Včeláriková,,,,way
 Včelárska,,,,way
 Wattova,,,,way
+Weinviertel,,,,relation
 "Za humnami",,,,way
 "Za kasárňou",,,,way
 "Za sokolovňou",,,,way
