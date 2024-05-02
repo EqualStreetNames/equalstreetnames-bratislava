@@ -16,7 +16,7 @@ Astronomická,wikidata,,Q11063,relation
 Avarská,wikidata,,Q68962,relation
 Azalková,wikidata,,Q5986917,relation
 Azovská,wikidata,,Q35000,way
-Bajkalská,wikidata,,Q5513,relation
+Bajkalská,wikidata,,Q5513,relation+way
 Balkánska,wikidata,,Q23522,relation+way
 Banskobystrická,wikidata,,Q144983,relation
 Baštová,wikidata,,Q81839,way
@@ -224,7 +224,7 @@ Nábrežná,wikidata,,Q1851368,relation
 "Námestie sv. Cyrila a Metoda",wikidata,,Q239925,way
 Narcisová,wikidata,,Q29465,relation
 Nechtíková,wikidata,,Q145930,way
-Nevädzová,wikidata,,Q156921,relation
+Nevädzová,wikidata,,Q156921,relation+way
 Nitrianska,wikidata,,Q26397,way
 Niťová,wikidata,,Q1391831,way
 Nížinná,wikidata,,Q193071,way
@@ -253,7 +253,7 @@ Panenská,wikidata,,Q344878,relation
 Panská,wikidata,,Q343386,relation+way
 Papraďová,wikidata,,Q56823139,way
 Partizánska,wikidata,,Q212948,relation
-"Pekná cesta",wikidata,,Q7242,relation
+"Pekná cesta",wikidata,,Q7242,relation+way
 Pečnianska,wikidata,,Q20860915,way
 Piata,wikidata,,Q203,way
 Piešťanská,wikidata,,Q321074,relation
@@ -560,6 +560,7 @@ Cádrova,,,,relation
 Cédrová,,,,way
 "Central passage",,,,way
 "Centrálna hviezdica",,,,way
+"Cesta mládeže",,,,way
 "Cesta na Gajc",,,,way
 "Cesta na Kamzík",,,,way
 "Cesta na Klanec",,,,relation+way
@@ -987,7 +988,6 @@ Morušová,,,,way
 Moskovská,,,,way
 Mošovského,,,,way
 "Most Apollo",,,,way
-"Most Lanfranconi",,,,way
 Mostová,,,,way
 Moyšova,,,,way
 Mraziarenská,,,,way
@@ -1076,6 +1076,7 @@ Nevská,,,,way
 Nezábudková,,,,relation
 Nová,,,,way
 "Nová Koziarka",,,,way
+"Nová Manina",,,,way
 Novackého,,,,way
 "Nové Pálenisko",,,,way
 "Nové Šuty",,,,way
@@ -1102,6 +1103,7 @@ Offroad,,,,way
 "Offroad Parcour",,,,way
 "Offroad draha Volkswagen",,,,way
 Okánikova,,,,way
+Okrajovka,,,,way
 Okružná,,,,way
 Oleandrová,,,,way
 Olejkárska,,,,way
@@ -1262,6 +1264,7 @@ Prešernova,,,,way
 "Pri letisku",,,,way
 "Pri nadjazde",,,,way
 "Pri parku",,,,way
+"Pri pekárni",,,,way
 "Pri pieskovom hone",,,,way
 "Pri potoku",,,,way
 "Pri rybníku",,,,way
