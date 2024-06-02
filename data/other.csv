@@ -218,7 +218,7 @@ Nábrežná,wikidata,,Q1851368,relation
 "Námestie 1. mája",wikidata,,Q47499,relation
 "Námestie 6. apríla",wikidata,,Q2506,relation
 "Námestie SNP",wikidata,,Q163780,relation+way
-"Námestie hraničiarov",wikidata,,Q2100653,relation+way
+"Námestie hraničiarov",wikidata,,Q2100653,relation
 "Námestie republiky",wikidata,,Q7270,way
 "Námestie slobody",wikidata,,Q2979,relation+way
 "Námestie sv. Cyrila a Metoda",wikidata,,Q239925,way
@@ -252,6 +252,7 @@ Panenská,wikidata,,Q344878,relation
 "Panónska cesta",wikidata,,Q170062,relation+way
 Panská,wikidata,,Q343386,relation+way
 Papraďová,wikidata,,Q56823139,way
+"Park obetí hraničiarov",wikidata,,Q2100653,way
 Partizánska,wikidata,,Q212948,relation
 "Pekná cesta",wikidata,,Q7242,relation+way
 Pečnianska,wikidata,,Q20860915,way
@@ -796,6 +797,7 @@ Kalinová,,,,way
 Kalištná,,,,way
 Kaméliová,,,,relation
 Kamenárska,,,,way
+Kamenistá,,,,way
 Kamenná,,,,way
 "Kamenný most v bažantnici",,,,way
 Kananefatská,,,,way
@@ -954,6 +956,7 @@ Manina,,,,way
 "Marchfeld Schnellstraße",,,,way
 "Mariána Kochanského",,,,way
 Mariánska,,,,relation
+"Maríny Paulínyovej",,,,way
 Markova,,,,relation
 Maróthyho,,,,way
 "Martina Granca",,,,relation
@@ -1065,7 +1068,6 @@ Nákupná,,,,way
 "Námestie rodiny",,,,way
 "Námestie sv. Floriána",,,,way
 "Námestie sv. Petra a Pavla",,,,way
-"Nástupná časť",,,,way
 Nefritová,,,,way
 Nekrasovova,,,,way
 "Nemecká dolina",,,,way
@@ -1205,6 +1207,7 @@ Plzenská,,,,way
 "Pod Zečákom",,,,relation
 "Pod brehmi",,,,way
 "Pod gaštanmi",,,,relation
+"Pod kopčekmi",,,,way
 "Pod krížom",,,,way
 "Pod lesom",,,,way
 "Pod násypom",,,,relation
@@ -1625,14 +1628,12 @@ Výtvarná,,,,way
 Včeláriková,,,,way
 Včelárska,,,,way
 Wattova,,,,way
-Weinviertel,,,,relation
 "Za humnami",,,,way
 "Za kasárňou",,,,way
 "Za sokolovňou",,,,way
 "Za stanicou",,,,way
 "Za tehelňou",,,,way
 Zadarská,,,,way
-"Zadné vstupné schodište - východ",,,,way
 Zafírová,,,,way
 Záhorácka,,,,way
 Záhorská,,,,relation+way
