@@ -59,7 +59,7 @@ Donovalova,wikidata,M,Q12777541,way
 Einsteinova,wikidata,M,Q937,relation
 Exnárova,wikidata,M,Q12770108,relation
 Fadruszova,wikidata,M,Q995552,relation
-"Fajnorovo nábrežie",wikidata,M,Q27809734,relation+way
+"Fajnorovo nábrežie",wikidata,M,Q27809734,relation
 Fándlyho,wikidata,M,Q898705,way
 Farského,wikidata,M,Q1729156,relation
 Fedákova,wikidata,M,Q12768451,relation
@@ -158,7 +158,7 @@ Kozičova,wikidata,M,Q18396703,way
 Kraskova,wikidata,M,Q1675575,relation
 Križkova,wikidata,M,Q1121255,way
 Krmanova,wikidata,M,Q543073,relation
-Krupkova,wikidata,M,Q12766025,relation
+Krupkova,wikidata,M,Q12766025,relation+way
 Krčméryho,wikidata,M,Q4181190,way
 Kubániho,wikidata,M,Q4025643,relation
 Kukučínova,wikidata,M,Q1384769,relation
@@ -186,7 +186,7 @@ Makovického,wikidata,M,Q2055549,way
 Martinengova,wikidata,M,Q13408883,relation
 Martinčekova,wikidata,M,Q12773741,relation
 "Mateja Bela",wikidata,M,Q697179,relation
-Matejkova,wikidata,M,Q14324179,relation
+Matejkova,wikidata,M,Q14324179,relation+way
 Matúškova,wikidata,M,Q975382,relation
 "Maximiliána Hella",wikidata,M,Q11893,way
 Metodova,wikidata,M,Q470621,relation
@@ -224,7 +224,7 @@ Ondrejovova,wikidata,M,Q3504212,relation
 Opletalova,wikidata,M,Q3273875,relation+way
 Osuského,wikidata,M,Q3508058,relation
 Ožvoldíkova,wikidata,M,Q12768983,way
-Palackého,wikidata,M,Q159642,relation+way
+Palackého,wikidata,M,Q159642,relation
 Palárikova,wikidata,M,Q1102385,relation
 Palkovičova,wikidata,M,Q823400,relation
 Páričkova,wikidata,M,Q106832177,relation
@@ -241,7 +241,7 @@ Plickova,wikidata,M,Q3108987,way
 Polereckého,wikidata,M,Q13421352,relation
 Popradská,wikidata,M,Q7327,way
 Považanova,wikidata,M,Q13421575,way
-Pribinova,wikidata,M,Q355900,relation
+Pribinova,wikidata,M,Q355900,relation+way
 Prokofievova,wikidata,M,Q49481,relation
 "Prokopa Veľkého",wikidata,M,Q366500,way
 Puškinova,wikidata,M,Q7200,way
@@ -296,7 +296,7 @@ Tvarožkova,wikidata,M,Q12777617,relation
 "Tyršovo nábrežie",wikidata,M,Q160021,relation
 Uhrova,wikidata,M,Q12771735,relation
 Urbánkova,wikidata,M,Q12004160,way
-"Vajanského nábrežie",wikidata,M,Q1357554,relation+way
+"Vajanského nábrežie",wikidata,M,Q1357554,relation
 "Valentína Matrku",wikidata,M,Q11872531,relation
 Vančurova,wikidata,M,Q699619,relation
 Vavilovova,wikidata,M,Q214926,relation
@@ -321,4 +321,4 @@ Zochova,wikidata,M,Q12050915,relation
 "Ľudovíta Fullu",wikidata,M,Q345078,way
 Žabotova,wikidata,M,Q18529736,relation
 Žellova,wikidata,M,Q4179108,way
-Žižkova,wikidata,M,Q215968,relation
+Žižkova,wikidata,M,Q215968,relation+way

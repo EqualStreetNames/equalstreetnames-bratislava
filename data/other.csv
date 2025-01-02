@@ -35,7 +35,7 @@ Blumentálska,wikidata,,Q1239947,relation
 Bobuľová,wikidata,,Q13184,way
 Bodliaková,wikidata,,Q926838,way
 Bodvianska,wikidata,,Q524569,way
-Bojnická,wikidata,,Q788753,relation
+Bojnická,wikidata,,Q788753,relation+way
 Bôrik,wikidata,,Q20893956,relation+way
 Borinská,wikidata,,Q893598,relation
 Borovicová,wikidata,,Q12024,way
@@ -43,7 +43,7 @@ Bradlianska,wikidata,,Q897067,relation
 Brančská,wikidata,,Q793344,relation
 Brestová,wikidata,,Q131113,relation
 Brezová,wikidata,,Q25243,relation
-Brnianska,wikidata,,Q14960,relation
+Brnianska,wikidata,,Q14960,relation+way
 Broskyňová,wikidata,,Q13189,way
 Brusnicová,wikidata,,Q5079636,way
 Budatínska,wikidata,,Q1804836;Q851291,relation
@@ -106,7 +106,7 @@ Istrijská,wikidata,,Q639912,relation
 "Ivanská cesta",wikidata,,Q302787,relation+way
 Jalovcová,wikidata,,Q26325,way
 Jantárová,wikidata,,Q25381,relation
-"Jantárová cesta",wikidata,,Q239574,relation
+"Jantárová cesta",wikidata,,Q239574,relation+way
 Jarná,wikidata,,Q1312,way
 Jaseňová,wikidata,,Q128887,relation
 "Jaskový rad",wikidata,,Q44377,relation
@@ -126,15 +126,15 @@ Kamilková,wikidata,,Q28437,way
 Kapitulská,wikidata,,Q237306,relation
 Kapucínska,wikidata,,Q124862,way
 Kapušianska,wikidata,,Q1095718,way
-Karloveská,wikidata,,Q1012707,relation
+Karloveská,wikidata,,Q1012707,relation+way
 Karpatská,wikidata,,Q1288,relation
 Kaukazská,wikidata,,Q251290,relation
-Kazanská,wikidata,,Q900,relation
+Kazanská,wikidata,,Q900,relation+way
 "Kežmarské námestie",wikidata,,Q327977,relation+way
 Klariská,wikidata,,Q733658,relation
 Komárňanská,wikidata,,Q210796,relation
 Konventná,wikidata,,Q1128397,relation
-Kopčianska,wikidata,,Q12030202,relation
+Kopčianska,wikidata,,Q12030202,relation+way
 Košická,wikidata,,Q25409,relation
 Kosodrevinová,wikidata,,Q147475,relation
 Kostolná,wikidata,,Q16970,way
@@ -144,7 +144,7 @@ Krakovská,wikidata,,Q31487,way
 Krásna,wikidata,,Q7242,relation
 Krásnohorská,wikidata,,Q592319,relation
 Krátka,wikidata,,Q36253,way
-"Kráľovské údolie",wikidata,,Q12097,relation
+"Kráľovské údolie",wikidata,,Q12097,relation+way
 Kremencová,wikidata,,Q237883,relation
 Kremeľská,wikidata,,Q133274,relation
 Kremnická,wikidata,,Q754776,relation
@@ -156,25 +156,24 @@ Kubínska,wikidata,,Q589309,way
 Kuklovská,wikidata,,Q1070270,relation
 Kúkoľová,wikidata,,Q147852,way
 Kuneradská,wikidata,,Q211973,way
-Kúpeľná,wikidata,,Q12770014,relation+way
+Kúpeľná,wikidata,,Q12770014,relation
 Kvetná,wikidata,,Q506,relation
 Kyjevská,wikidata,,Q1899,relation
 Kysucká,wikidata,,Q1776264,relation
 "Lamačská cesta",wikidata,,Q787303,relation+way
-Latorická,wikidata,,Q603664,relation
+Latorická,wikidata,,Q603664,relation+way
 Legionárska,wikidata,,Q605324,relation
 Leknová,wikidata,,Q146628,relation
 Lesnícka,wikidata,,Q38112,way
 Levanduľová,wikidata,,Q171892,way
-Levárska,wikidata,,Q780356,relation
+Levárska,wikidata,,Q780356,relation+way
 Levočská,wikidata,,Q242478,relation
-Lietavská,wikidata,,Q248735,relation
+Lietavská,wikidata,,Q248735,relation+way
 Likavská,wikidata,,Q1012967,way
 Limbová,wikidata,,Q147278,relation
 Lipová,wikidata,,Q127849,way
 Lodná,wikidata,,Q11446,way
 Lotyšská,wikidata,,Q211,way
-Lovinského,wikidata,,Q106783609,relation
 Lúčna,wikidata,,Q7777019,relation
 Lužná,wikidata,,Q11177275,relation
 Magurská,wikidata,,Q394682,relation
@@ -218,7 +217,7 @@ Nábrežná,wikidata,,Q1851368,relation
 "Námestie 1. mája",wikidata,,Q47499,relation
 "Námestie 6. apríla",wikidata,,Q2506,relation
 "Námestie SNP",wikidata,,Q163780,relation+way
-"Námestie hraničiarov",wikidata,,Q2100653,relation
+"Námestie hraničiarov",wikidata,,Q2100653,relation+way
 "Námestie republiky",wikidata,,Q7270,way
 "Námestie slobody",wikidata,,Q2979,relation+way
 "Námestie sv. Cyrila a Metoda",wikidata,,Q239925,way
@@ -245,14 +244,14 @@ Osiková,wikidata,,Q146110,way
 Ostredková,wikidata,,Q13537959,relation
 Ostružinová,wikidata,,Q13541716,relation
 Očovská,wikidata,,Q1187024,relation
-Pajštúnska,wikidata,,Q12773302,relation
+Pajštúnska,wikidata,,Q12773302,relation+way
 Palisády,wikidata,,Q90685,relation
 Palmová,wikidata,,Q1096533,way
 Panenská,wikidata,,Q344878,relation
 "Panónska cesta",wikidata,,Q170062,relation+way
-Panská,wikidata,,Q343386,relation+way
+Panská,wikidata,,Q343386,relation
 Papraďová,wikidata,,Q56823139,way
-"Park obetí hraničiarov",wikidata,,Q2100653,way
+"Park obetí Hraničiarov",wikidata,,Q2100653,way
 Partizánska,wikidata,,Q212948,relation
 "Pekná cesta",wikidata,,Q7242,relation+way
 Pečnianska,wikidata,,Q20860915,way
@@ -384,7 +383,7 @@ Trenčianska,wikidata,,Q145002,relation
 Tretia,wikidata,,Q201,way
 Trinásta,wikidata,,Q37141,relation
 "Trnavská cesta",wikidata,,Q26175,relation
-"Trnavské mýto",wikidata,,Q26175,relation+way
+"Trnavské mýto",wikidata,,Q26175,way
 Trnková,wikidata,,Q129018,relation
 "Trojičné námestie",wikidata,,Q37090,relation+way
 Turnianska,wikidata,,Q248269,relation
@@ -478,7 +477,6 @@ Ametystová,,,,relation
 "Andreja Hadíka",,,,way
 "Andreja Plávku",,,,way
 Antická,,,,way
-"Antona Durvaya",,,,way
 "Antona Floreka",,,,way
 "Antona Moyša",,,,way
 Aragonitová,,,,way
@@ -573,7 +571,7 @@ Chalcedónová,,,,way
 Chemická,,,,way
 Chladná,,,,way
 Chotárna,,,,relation
-Chrasťová,,,,relation
+Chrasťová,,,,relation+way
 Chrenová,,,,way
 Chrobákova,,,,way
 Chvojnícka,,,,way
@@ -613,6 +611,7 @@ Donská,,,,way
 Dopravná,,,,way
 Dorastenecká,,,,relation
 Dražická,,,,way
+"Driver 8",,,,way
 Drobného,,,,way
 Dropia,,,,way
 Drozdová,,,,way
@@ -715,7 +714,7 @@ Hrabovinská,,,,way
 "Hrabový chodník",,,,way
 Hrachová,,,,way
 Hradištná,,,,way
-Hradská,,,,relation
+Hradská,,,,relation+way
 Hraničiarska,,,,way
 Hrdličkova,,,,way
 Hríbová,,,,way
@@ -738,6 +737,7 @@ Ibišteková,,,,way
 Ihrisková,,,,way
 Ilkovičova,,,,way
 Ilýrska,,,,way
+Ipelská,,,,way
 Irisová,,,,way
 Irkutská,,,,way
 Iršajská,,,,way
@@ -800,6 +800,7 @@ Kamenárska,,,,way
 Kamenistá,,,,way
 Kamenná,,,,way
 "Kamenný most v bažantnici",,,,way
+Kameňák,,,,way
 Kananefatská,,,,way
 Kaplinská,,,,way
 Kapsičková,,,,way
@@ -864,6 +865,7 @@ Kratiny,,,,way
 Kresánkova,,,,way
 Krištáľová,,,,way
 Krivá,,,,way
+"Krivé Jarky Trail",,,,way
 "Križovatka Jozefa Čabelku",,,,way
 Krompašská,,,,way
 Krušpánová,,,,way
@@ -927,6 +929,7 @@ Lónyaiová,,,,way
 Lopárska,,,,way
 Lopenícka,,,,way
 Lopúchová,,,,way
+Lovinského,,,,relation
 Lozornianska,,,,way
 Lubinská,,,,way
 Luhačovická,,,,way
@@ -1058,7 +1061,6 @@ Nákovná,,,,relation
 Nákupná,,,,way
 "Námestie Biely kríž",,,,way
 "Námestie F. X. Messerschmidta",,,,way
-"Námestie F.X. Messerschmidta",,,,way
 "Námestie T. G. Masaryka",,,,way
 "Námestie Titusa Zemana",,,,way
 "Námestie generála Viesta",,,,way
@@ -1179,7 +1181,7 @@ Piesočná,,,,way
 Pilárikova,,,,way
 Píniová,,,,relation
 Pinotová,,,,way
-Pivoňková,,,,way
+Pivonková,,,,way
 Plamienková,,,,way
 Planét,,,,way
 Plánky,,,,way
@@ -1227,7 +1229,6 @@ Podkorunská,,,,relation
 Podlučinského,,,,relation
 Podniková,,,,way
 Podtatranského,,,,way
-"Podunajská nížina",,,,relation
 Podvornická,,,,way
 Podzáhradná,,,,way
 "Pohraničiarska signálka",,,,way
@@ -1337,6 +1338,7 @@ Ribayova,,,,way
 Rigeleho,,,,way
 Rizlingová,,,,way
 Robotnícka,,,,way
+Rohatka,,,,way
 Rošického,,,,way
 Rostovská,,,,way
 Rovinka,,,,way
@@ -1459,7 +1461,6 @@ Staromlynská,,,,relation
 Starorímska,,,,way
 "Staroturský chodník",,,,way
 "Starý most",,,,way
-"Štátne lesy",,,,way
 Staviteľská,,,,way
 Štedrá,,,,way
 "Štefana Majera",,,,way
@@ -1492,6 +1493,7 @@ Súbežná,,,,way
 Suchá,,,,way
 "Suché mýto",,,,way
 Suchohradská,,,,way
+Suchohríbová,,,,way
 Sudová,,,,way
 Súhvezdná,,,,way
 Súkennícka,,,,way
@@ -1615,7 +1617,7 @@ Vresová,,,,way
 Vretenová,,,,way
 Vrútocká,,,,way
 "Vtáčie údolie",,,,way
-"Vtáčikova cesta",,,,way
+"Vtáčiková cesta",,,,way
 Vukovarská,,,,way
 Východná,,,,way
 Vyhliadka,,,,way
@@ -1623,6 +1625,7 @@ Výhonská,,,,way
 Výria,,,,way
 Vyšná,,,,way
 Vysoká,,,,relation
+Vysokohorska,,,,way
 Vysokohorská,,,,relation+way
 Výtvarná,,,,way
 Včeláriková,,,,way
@@ -1703,9 +1706,10 @@ Zvončeková,,,,way
 Železná,,,,way
 Železničiarska,,,,way
 Žiarska,,,,way
-Žitavská,,,,relation
+Žitavská,,,,relation+way
 Žitná,,,,way
 "Žitný ostrov",,,,relation
 Žitvayova,,,,way
 Živnostenská,,,,way
 Žltá,,,,way
+"Župné Námestie",,,,way
