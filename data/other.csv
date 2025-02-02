@@ -66,7 +66,7 @@ Deviata,wikidata,,Q19108,way
 "Devínska cesta",wikidata,,Q661046,relation+way
 Domašská,wikidata,,Q1192056,way
 Drevená,wikidata,,Q287,relation
-Drieňová,wikidata,,Q158642,relation
+Drieňová,wikidata,,Q158642,relation+way
 "Drotárska cesta",wikidata,,Q338221,relation
 Druhá,wikidata,,Q200,way
 Dubnická,wikidata,,Q481528,relation
@@ -106,7 +106,7 @@ Istrijská,wikidata,,Q639912,relation
 "Ivanská cesta",wikidata,,Q302787,relation+way
 Jalovcová,wikidata,,Q26325,way
 Jantárová,wikidata,,Q25381,relation
-"Jantárová cesta",wikidata,,Q239574,relation+way
+"Jantárová cesta",wikidata,,Q239574,relation
 Jarná,wikidata,,Q1312,way
 Jaseňová,wikidata,,Q128887,relation
 "Jaskový rad",wikidata,,Q44377,relation
@@ -223,7 +223,7 @@ Nábrežná,wikidata,,Q1851368,relation
 "Námestie sv. Cyrila a Metoda",wikidata,,Q239925,way
 Narcisová,wikidata,,Q29465,relation
 Nechtíková,wikidata,,Q145930,way
-Nevädzová,wikidata,,Q156921,relation+way
+Nevädzová,wikidata,,Q156921,relation
 Nitrianska,wikidata,,Q26397,way
 Niťová,wikidata,,Q1391831,way
 Nížinná,wikidata,,Q193071,way
@@ -244,7 +244,7 @@ Osiková,wikidata,,Q146110,way
 Ostredková,wikidata,,Q13537959,relation
 Ostružinová,wikidata,,Q13541716,relation
 Očovská,wikidata,,Q1187024,relation
-Pajštúnska,wikidata,,Q12773302,relation+way
+Pajštúnska,wikidata,,Q12773302,relation
 Palisády,wikidata,,Q90685,relation
 Palmová,wikidata,,Q1096533,way
 Panenská,wikidata,,Q344878,relation
@@ -450,7 +450,7 @@ Znievska,wikidata,,Q3493812,relation
 Židovská,wikidata,,Q7325,relation
 Žihľavová,wikidata,,Q155909,way
 Žilinská,wikidata,,Q25797,relation
-"Župné námestie",wikidata,,Q2778574,way
+"Župné Námestie",wikidata,,Q10296503,way
 "1. alej",,,,way
 "1. mája",,,,way
 "2. alej",,,,way
@@ -1104,8 +1104,6 @@ Odbojárov,,,,way
 Odborárska,,,,way
 "Odborárske námestie",,,,relation
 Offroad,,,,way
-"Offroad Parcour",,,,way
-"Offroad draha Volkswagen",,,,way
 Okánikova,,,,way
 Okrajovka,,,,way
 Okružná,,,,way
@@ -1712,4 +1710,3 @@ Zvončeková,,,,way
 Žitvayova,,,,way
 Živnostenská,,,,way
 Žltá,,,,way
-"Župné Námestie",,,,way
