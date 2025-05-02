@@ -642,6 +642,7 @@ Firmova,,,,way
 Fiľakovská,,,,way
 Fláviovska,,,,way
 Fláviovská,,,,way
+Floriánska,,,,way
 Fongová,,,,way
 "Francúzskych partizánov",,,,relation
 Frankovská,,,,way
@@ -876,7 +877,7 @@ Kulíškova,,,,relation
 Kultúrna,,,,way
 Kunovská,,,,way
 Kurucova,,,,way
-Kutlíkova,,,,relation
+Kutlíkova,,,,relation+way
 Kútska,,,,way
 Kutuzovova,,,,way
 Kučovanická,,,,way
@@ -1104,6 +1105,7 @@ Oblačná,,,,way
 Odbojárov,,,,way
 Odborárska,,,,way
 "Odborárske námestie",,,,relation
+"Oeserov rad",,,,way
 Offroad,,,,way
 Okánikova,,,,way
 Okrajovka,,,,way
