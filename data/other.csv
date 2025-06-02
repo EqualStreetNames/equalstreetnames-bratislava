@@ -405,7 +405,7 @@ Veternicová,wikidata,,Q161045,relation
 "Viedenská cesta",wikidata,,Q1741,relation
 Vígľašská,wikidata,,Q1095685,relation
 Vilová,wikidata,,Q227307,relation
-Vinohradnícka,wikidata,,Q253140,relation
+Vinohradnícka,wikidata,,Q253140,relation+way
 Višňová,wikidata,,Q131517,relation
 Vlárska,wikidata,,Q2529724,relation
 "Vlastenecké námestie",wikidata,,Q6241,way
@@ -997,6 +997,7 @@ Moskovská,,,,way
 Mošovského,,,,way
 "Most Apollo",,,,way
 Mostová,,,,way
+Motorkárska,,,,way
 Moyšova,,,,way
 Mraziarenská,,,,way
 Mrázová,,,,way
@@ -1106,7 +1107,6 @@ Odbojárov,,,,way
 Odborárska,,,,way
 "Odborárske námestie",,,,relation
 "Oeserov rad",,,,way
-Offroad,,,,way
 Okánikova,,,,way
 Okrajovka,,,,way
 Okružná,,,,way
@@ -1287,6 +1287,7 @@ Prešernova,,,,way
 "Pri vojenskom cintoríne",,,,way
 "Pri zvonici",,,,way
 "Pri Čiernom lese",,,,way
+"Pri žrebčíne",,,,way
 "Priama cesta",,,,way
 Pribišova,,,,relation
 Pribylinská,,,,way
