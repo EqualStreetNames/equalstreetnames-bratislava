@@ -1,4 +1,456 @@
 name,source,gender,wikidata,type
+"29. augusta",wikidata,-,Q163780,relation
+"8. mája",wikidata,-,Q270706,relation
+Agátová,wikidata,-,Q472943,relation
+Albánska,wikidata,-,Q222,relation
+Alejová,wikidata,-,Q207934,relation
+Amarelková,wikidata,-,Q155848,relation
+Americká,wikidata,-,Q828,relation
+"Americké námestie",wikidata,-,Q30,relation
+Amurská,wikidata,-,Q6862,way
+Anenská,wikidata,-,Q666578,way
+Anízová,wikidata,-,Q28692,relation
+Antolská,wikidata,-,Q249613,relation
+Arménska,wikidata,-,Q399,relation
+Astronomická,wikidata,-,Q11063,relation
+Avarská,wikidata,-,Q68962,relation
+Azalková,wikidata,-,Q5986917,relation
+Azovská,wikidata,-,Q35000,way
+Bajkalská,wikidata,-,Q5513,relation+way
+Balkánska,wikidata,-,Q23522,relation+way
+Banskobystrická,wikidata,-,Q144983,relation
+Baštová,wikidata,-,Q81839,way
+Bazalková,wikidata,-,Q38859,relation
+Bazová,wikidata,-,Q131448,relation
+Bebravská,wikidata,-,Q791716,way
+Beskydská,wikidata,-,Q215573,relation
+Betliarska,wikidata,-,Q2630404,relation
+Beňadická,wikidata,-,Q1008238,relation
+Biela,wikidata,-,Q23444,way
+Bieloruská,wikidata,-,Q184,relation
+Biskupická,wikidata,-,Q683983,relation
+Blatnická,wikidata,-,Q784917,relation
+Bleduľová,wikidata,-,Q161530,relation
+Blumentálska,wikidata,-,Q1239947,relation
+Bobuľová,wikidata,-,Q13184,way
+Bodliaková,wikidata,-,Q926838,way
+Bodvianska,wikidata,-,Q524569,way
+Bojnická,wikidata,-,Q788753,relation+way
+Bôrik,wikidata,-,Q20893956,relation+way
+Borinská,wikidata,-,Q893598,relation
+Borovicová,wikidata,-,Q12024,way
+Bradlianska,wikidata,-,Q897067,relation
+Brančská,wikidata,-,Q793344,relation
+Brestová,wikidata,-,Q131113,relation
+Brezová,wikidata,-,Q25243,relation
+Brnianska,wikidata,-,Q14960,relation+way
+Broskyňová,wikidata,-,Q13189,way
+Brusnicová,wikidata,-,Q5079636,way
+Budatínska,wikidata,-,Q1804836;Q851291,relation
+Buková,wikidata,-,Q25403,way
+Bukureštská,wikidata,-,Q19660,way
+Bulharská,wikidata,-,Q133255,relation
+Bystrická,wikidata,-,Q246755,relation+way
+Bzovícka,wikidata,-,Q848731,relation
+Břeclavská,wikidata,-,Q581478,way
+"Cesta na Červený most",wikidata,-,Q28793285,relation
+Charkovská,wikidata,-,Q42308,way
+Chorvátska,wikidata,-,Q224,relation
+Cintorínska,wikidata,-,Q39614,relation+way
+Cukrová,wikidata,-,Q11002,way
+Cyrilova,wikidata,-,Q239925,way
+"Daliborovo námestie",wikidata,-,Q855839,relation+way
+Dargovská,wikidata,-,Q902056,relation
+Desiata,wikidata,-,Q23806,relation
+Deviata,wikidata,-,Q19108,way
+"Devínska cesta",wikidata,-,Q661046,relation+way
+Domašská,wikidata,-,Q1192056,way
+Drevená,wikidata,-,Q287,relation
+Drieňová,wikidata,-,Q158642,relation+way
+"Drotárska cesta",wikidata,-,Q338221,relation
+Druhá,wikidata,-,Q200,way
+Dubnická,wikidata,-,Q481528,relation
+Dubová,wikidata,-,Q12004,relation
+Dunajská,wikidata,-,Q1653,relation
+Egrešová,wikidata,-,Q41503,way
+Estónska,wikidata,-,Q191,relation
+Fazuľová,wikidata,-,Q310438,relation
+"Fialkové údolie",wikidata,-,Q108684,relation
+Fikusová,wikidata,-,Q59798,relation
+"Františkánske námestie",wikidata,-,Q1450292,relation+way
+Gerulatská,wikidata,-,Q1309632,relation
+Goralská,wikidata,-,Q498700,way
+Haburská,wikidata,-,Q584931,relation
+"Hadia cesta",wikidata,-,Q2102,relation
+Handlovská,wikidata,-,Q842011,relation
+Harmanecká,wikidata,-,Q662883,way
+Herlianska,wikidata,-,Q550565,relation+way
+Hnilecká,wikidata,-,Q743746,way
+Hodonínska,wikidata,-,Q321778,relation
+Holíčska,wikidata,-,Q653326,relation
+Hospodárska,wikidata,-,Q159810,way
+Hradná,wikidata,-,Q830976,relation
+"Hradné údolie",wikidata,-,Q593311,relation
+Hraničná,wikidata,-,Q133346,relation+way
+Hriňovská,wikidata,-,Q846431,relation
+Hronská,wikidata,-,Q213230,relation
+"Humenské námestie",wikidata,-,Q502264,relation+way
+Hutnícka,wikidata,-,Q19724861,relation
+Ihličnatá,wikidata,-,Q132825,relation
+Ílová,wikidata,-,Q42302,way
+Imelová,wikidata,-,Q144940,way
+Inovecká,wikidata,-,Q2153837,way
+Ipeľská,wikidata,-,Q748872,relation
+Iskerníková,wikidata,-,Q145869,relation
+Istrijská,wikidata,-,Q639912,relation
+"Ivanská cesta",wikidata,-,Q302787,relation+way
+Jalovcová,wikidata,-,Q26325,way
+Jantárová,wikidata,-,Q25381,relation
+"Jantárová cesta",wikidata,-,Q239574,relation
+Jarná,wikidata,-,Q1312,way
+Jaseňová,wikidata,-,Q128887,relation
+"Jaskový rad",wikidata,-,Q44377,relation
+Jasovská,wikidata,-,Q719586,relation
+Javorová,wikidata,-,Q42292,relation
+Jazerná,wikidata,-,Q23397,way
+Jačmenná,wikidata,-,Q518044,relation
+Jedľová,wikidata,-,Q25350,relation
+Jelenia,wikidata,-,Q122431,relation
+Júlová,wikidata,-,Q121,way
+Junácka,wikidata,-,Q7541920,relation
+Júnová,wikidata,-,Q120,way
+"K lomu",wikidata,-,Q188040,relation
+"K Železnej studienke",wikidata,-,Q3492846,relation
+"Kamenné námestie",wikidata,-,Q22731,relation+way
+Kamilková,wikidata,-,Q28437,way
+Kapitulská,wikidata,-,Q237306,relation
+Kapucínska,wikidata,-,Q124862,way
+Kapušianska,wikidata,-,Q1095718,way
+Karloveská,wikidata,-,Q1012707,relation+way
+Karpatská,wikidata,-,Q1288,relation
+Kaukazská,wikidata,-,Q251290,relation
+Kazanská,wikidata,-,Q900,relation+way
+"Kežmarské námestie",wikidata,-,Q327977,relation+way
+Klariská,wikidata,-,Q733658,relation
+Komárňanská,wikidata,-,Q210796,relation
+Konventná,wikidata,-,Q1128397,relation
+Kopčianska,wikidata,-,Q12030202,relation
+Košická,wikidata,-,Q25409,relation
+Kosodrevinová,wikidata,-,Q147475,relation
+Kostolná,wikidata,-,Q16970,way
+Kozia,wikidata,-,Q2934,relation
+Krajná,wikidata,-,Q12772954,relation
+Krakovská,wikidata,-,Q31487,way
+Krásna,wikidata,-,Q7242,relation
+Krásnohorská,wikidata,-,Q592319,relation
+Krátka,wikidata,-,Q36253,way
+"Kráľovské údolie",wikidata,-,Q12097,relation+way
+Kremencová,wikidata,-,Q237883,relation
+Kremeľská,wikidata,-,Q133274,relation
+Kremnická,wikidata,-,Q754776,relation
+Kríková,wikidata,-,Q42295,way
+Krížna,wikidata,-,Q1789547,relation
+Krokusová,wikidata,-,Q157806,way
+Krupinská,wikidata,-,Q756667,way
+Kubínska,wikidata,-,Q589309,way
+Kuklovská,wikidata,-,Q1070270,relation
+Kúkoľová,wikidata,-,Q147852,way
+Kuneradská,wikidata,-,Q211973,way
+Kúpeľná,wikidata,-,Q12770014,relation
+Kvetná,wikidata,-,Q506,relation
+Kyjevská,wikidata,-,Q1899,relation
+Kysucká,wikidata,-,Q1776264,relation
+"Lamačská cesta",wikidata,-,Q787303,relation+way
+Latorická,wikidata,-,Q603664,relation+way
+Legionárska,wikidata,-,Q605324,relation
+Leknová,wikidata,-,Q146628,relation
+Lesnícka,wikidata,-,Q38112,way
+Levanduľová,wikidata,-,Q171892,way
+Levárska,wikidata,-,Q780356,relation+way
+Levočská,wikidata,-,Q242478,relation
+Lietavská,wikidata,-,Q248735,relation+way
+Likavská,wikidata,-,Q1012967,way
+Limbová,wikidata,-,Q147278,relation
+Lipová,wikidata,-,Q127849,way
+Lodná,wikidata,-,Q11446,way
+Lotyšská,wikidata,-,Q211,way
+Lúčna,wikidata,-,Q7777019,relation
+Lužná,wikidata,-,Q11177275,relation
+Magurská,wikidata,-,Q394682,relation
+Majoránová,wikidata,-,Q22694,relation
+Májová,wikidata,-,Q119,relation
+Malodunajská,wikidata,-,Q937294,relation+way
+"Malokarpatské námestie",wikidata,-,Q426712,relation
+Mandľová,wikidata,-,Q12770970,relation
+Margarétová,wikidata,-,Q21040,way
+Marhuľová,wikidata,-,Q12771024,way
+Maďarská,wikidata,-,Q28,relation
+Medená,wikidata,-,Q753,relation
+Medová,wikidata,-,Q10987,relation
+Medzilaborecká,wikidata,-,Q578686,relation
+Mesačná,wikidata,-,Q405,relation
+Meteorová,wikidata,-,Q131136,way
+Michalská,wikidata,-,Q45581,relation
+"Michalský chodník",wikidata,-,Q45581,way
+Mierová,wikidata,-,Q454,relation
+Mikulášska,wikidata,-,Q4177964,relation
+Mládežnícka,wikidata,-,Q190007,relation
+Mlynská,wikidata,-,Q44494,relation
+Modricová,wikidata,-,Q161151,relation
+Moldavská,wikidata,-,Q846440,way
+"Most SNP",wikidata,-,Q163780,way
+Mostná,wikidata,-,Q12280,way
+Motýlia,wikidata,-,Q28319,way
+Mramorová,wikidata,-,Q40861,way
+Muránska,wikidata,-,Q609701,relation
+Muškátová,wikidata,-,Q146118,way
+Mýtna,wikidata,-,Q16687744,relation
+"Na Pažiti",wikidata,-,Q12773587,relation
+"Na Slavíne",wikidata,-,Q1553111,relation
+"Na hriadkach",wikidata,-,Q1009702,relation
+"Na jarku",wikidata,-,Q343200,relation
+"Na paši",wikidata,-,Q30121,relation
+"Na vŕšku",wikidata,-,Q2535015,way
+Nábrežná,wikidata,-,Q1851368,relation
+"Nad lomom",wikidata,-,Q188040,relation
+"Nad lúčkami",wikidata,-,Q7777019,relation
+"Námestie 1. mája",wikidata,-,Q47499,relation
+"Námestie 6. apríla",wikidata,-,Q2506,relation
+"Námestie SNP",wikidata,-,Q163780,relation+way
+"Námestie hraničiarov",wikidata,-,Q2100653,relation+way
+"Námestie republiky",wikidata,-,Q7270,way
+"Námestie slobody",wikidata,-,Q2979,relation+way
+"Námestie sv. Cyrila a Metoda",wikidata,-,Q239925,way
+Narcisová,wikidata,-,Q29465,relation
+Nechtíková,wikidata,-,Q145930,way
+Nevädzová,wikidata,-,Q156921,relation
+Nitrianska,wikidata,-,Q26397,way
+Niťová,wikidata,-,Q1391831,way
+Nížinná,wikidata,-,Q193071,way
+Novobanská,wikidata,-,Q268463,way
+Obchodná,wikidata,-,Q1518128,relation
+Obežná,wikidata,-,Q13537720,way
+Obilná,wikidata,-,Q2643145,relation
+Oblúková,wikidata,-,Q12277,way
+Odeská,wikidata,-,Q1874,relation
+Olivová,wikidata,-,Q1621080,way
+Ondavská,wikidata,-,Q644669,way
+Opálová,wikidata,-,Q171058,relation
+Orchideová,wikidata,-,Q25308,relation
+Orenburská,wikidata,-,Q5337,relation
+Orgovánová,wikidata,-,Q6565319,way
+Osiková,wikidata,-,Q146110,way
+Ôsma,wikidata,-,Q23355,relation
+Ostredková,wikidata,-,Q13537959,relation
+Ostružinová,wikidata,-,Q13541716,relation
+Očovská,wikidata,-,Q1187024,relation
+Pajštúnska,wikidata,-,Q12773302,relation
+Palisády,wikidata,-,Q90685,relation
+Palmová,wikidata,-,Q1096533,way
+Panenská,wikidata,-,Q344878,relation
+"Panónska cesta",wikidata,-,Q170062,relation+way
+Panská,wikidata,-,Q343386,relation
+Papraďová,wikidata,-,Q56823139,way
+"Park obetí Hraničiarov",wikidata,-,Q2100653,way
+Partizánska,wikidata,-,Q212948,relation
+"Pekná cesta",wikidata,-,Q7242,relation+way
+Pečnianska,wikidata,-,Q20860915,way
+Piata,wikidata,-,Q203,way
+Piešťanská,wikidata,-,Q321074,relation
+Pílová,wikidata,-,Q125356,relation
+Pionierska,wikidata,-,Q343906,relation
+Pobrežná,wikidata,-,Q93352,relation
+"Pod Kobylou",wikidata,-,Q1207065,relation
+"Pod Strážami",wikidata,-,Q24192856,relation
+"Pod agátmi",wikidata,-,Q157417,way
+"Pod lipami",wikidata,-,Q127849,relation
+"Pod skalou",wikidata,-,Q581776,way
+Podbeľová,wikidata,-,Q26302,way
+Podbrezovská,wikidata,-,Q731309,way
+Podkolibská,wikidata,-,Q277852,relation
+Podlesná,wikidata,-,Q4421,way
+Podpriehradná,wikidata,-,Q12323,relation
+Podunajská,wikidata,-,Q1653,relation
+Poludníková,wikidata,-,Q32099,relation
+Poniklecová,wikidata,-,Q9333950,way
+Poštová,wikidata,-,Q49845,relation
+Povoznícka,wikidata,-,Q1473046,way
+Poľnohospodárska,wikidata,-,Q11451,relation
+Poľská,wikidata,-,Q36,way
+Požiarnická,wikidata,-,Q107711,way
+Prašná,wikidata,-,Q13538521,way
+Pražská,wikidata,-,Q1085,relation
+Prepoštská,wikidata,-,Q756215,way
+Prešovská,wikidata,-,Q26119,relation
+"Pri Pastierni",wikidata,-,Q12059906,way
+"Pri kríži",wikidata,-,Q392371,relation
+"Pri mlyne",wikidata,-,Q44494,relation
+"Pri pasienku",wikidata,-,Q30121,way
+"Pri starom letisku",wikidata,-,Q1262876,relation
+Priehradná,wikidata,-,Q12323,relation
+Prievozská,wikidata,-,Q13538652,relation
+Prístavná,wikidata,-,Q139413,relation
+Prvá,wikidata,-,Q199,way
+Púchovská,wikidata,-,Q258481,relation
+Púpavová,wikidata,-,Q131219,relation
+Pyrenejská,wikidata,-,Q12431,way
+Radarová,wikidata,-,Q47528,way
+Radničná,wikidata,-,Q543654,way
+Rajecká,wikidata,-,Q909333,relation
+Rajská,wikidata,-,Q3363340,relation
+Rajčianska,wikidata,-,Q1808083,way
+Rascová,wikidata,-,Q26811,relation
+Račianska,wikidata,-,Q1025249,relation
+Repíková,wikidata,-,Q156865,relation
+Repková,wikidata,-,Q1790872,way
+Revúcka,wikidata,-,Q847213,relation
+Ríbezľová,wikidata,-,Q621670,way
+Riečna,wikidata,-,Q4022,relation
+Rímska,wikidata,-,Q220,way
+Rosná,wikidata,-,Q41097,way
+Rovníková,wikidata,-,Q23538,way
+Roľnícka,wikidata,-,Q838811,relation
+Rožňavská,wikidata,-,Q267888,relation+way
+Rumančeková,wikidata,-,Q28437,way
+"Rusovská cesta",wikidata,-,Q1091791,relation+way
+Ružinovská,wikidata,-,Q934473,relation
+"Rybárska brána",wikidata,-,Q331432,relation+way
+Rybničná,wikidata,-,Q1265665,relation
+Rytierska,wikidata,-,Q102083,relation
+Sabinovská,wikidata,-,Q837478,relation
+Šafranová,wikidata,-,Q15041677,relation
+Šalviová,wikidata,-,Q1111359,relation
+Šamorínska,wikidata,-,Q391068,relation
+Saratovská,wikidata,-,Q5332,relation
+Šášovská,wikidata,-,Q9386782,relation
+Sekulská,wikidata,-,Q617485,relation
+Senická,wikidata,-,Q750407,way
+Senná,wikidata,-,Q336989,way
+Sečovská,wikidata,-,Q847336,way
+Sibírska,wikidata,-,Q5428,relation
+Siedma,wikidata,-,Q23350,way
+Šiesta,wikidata,-,Q23488,way
+Šintavská,wikidata,-,Q391673,relation
+Šípová,wikidata,-,Q15986559,way
+Šíravská,wikidata,-,Q189395,way
+Sitnianska,wikidata,-,Q1621423,way
+Skorocelová,wikidata,-,Q157408,way
+Slatinská,wikidata,-,Q1813485,way
+"Slávičie údolie",wikidata,-,Q25393,relation+way
+Sliačska,wikidata,-,Q258439,relation
+Slnečnicová,wikidata,-,Q171497,way
+"Slovanské nábrežie",wikidata,-,Q40477,relation
+Slovinská,wikidata,-,Q267888,way
+Slovnaftská,wikidata,-,Q1587563,relation
+Smaragdová,wikidata,-,Q43513,way
+Smolenická,wikidata,-,Q1020253,relation
+Smrečianska,wikidata,-,Q1072504,relation
+Snežienková,wikidata,-,Q109995,relation
+Solivarská,wikidata,-,Q733467,relation
+Sosnová,wikidata,-,Q133128,relation
+Sovia,wikidata,-,Q26012,relation
+Špitálska,wikidata,-,Q16917,relation
+Spojná,wikidata,-,Q12776546,way
+"Stará Vajnorská",wikidata,-,Q1091778,relation
+Starhradská,wikidata,-,Q3566075,relation+way
+Starohájska,wikidata,-,Q23929675,relation
+Staromestská,wikidata,-,Q12766883,relation
+Stavbárska,wikidata,-,Q385378,relation
+"Stepná cesta",wikidata,-,Q123991,way
+Strážna,wikidata,-,Q24192856,way
+Štrbská,wikidata,-,Q373739,way
+Strečnianska,wikidata,-,Q1014197,relation
+Strojnícka,wikidata,-,Q16517616,relation
+Stromová,wikidata,-,Q10884,relation
+Studená,wikidata,-,Q270952,relation
+Štvrtá,wikidata,-,Q202,way
+Šumavská,wikidata,-,Q157290,way
+Šúrska,wikidata,-,Q12781910,way
+Súťažná,wikidata,-,Q108538544,relation
+Svidnícka,wikidata,-,Q833845,way
+Tabaková,wikidata,-,Q1566,way
+Tehelňa,wikidata,-,Q198632,relation
+Tematínska,wikidata,-,Q3488750,relation
+Terchovská,wikidata,-,Q932854,way
+Tobrucká,wikidata,-,Q182092,relation
+Tokajícka,wikidata,-,Q548249,relation
+Toplianska,wikidata,-,Q1066352,way
+Topoľová,wikidata,-,Q25356,way
+Topoľčianska,wikidata,-,Q12769068,relation
+Toryská,wikidata,-,Q1186856,relation
+Trebišovská,wikidata,-,Q256301,way
+Trenčianska,wikidata,-,Q145002,relation+way
+Tretia,wikidata,-,Q201,way
+Trinásta,wikidata,-,Q37141,relation
+"Trnavská cesta",wikidata,-,Q26175,relation
+"Trnavské mýto",wikidata,-,Q26175,way
+Trnková,wikidata,-,Q129018,relation
+"Trojičné námestie",wikidata,-,Q37090,relation+way
+Turnianska,wikidata,-,Q248269,relation
+Turčianska,wikidata,-,Q2034315,way
+Tymiánová,wikidata,-,Q148668,way
+Uhorková,wikidata,-,Q23425,way
+Ukrajinská,wikidata,-,Q212,way
+Urbárska,wikidata,-,Q413938,relation+way
+Urpínska,wikidata,-,Q4177997,way
+Uršulínska,wikidata,-,Q13425267,relation+way
+Úzka,wikidata,-,Q12781901,way
+Učiteľská,wikidata,-,Q37226,relation
+"V záhradách",wikidata,-,Q1107656,way
+Varínska,wikidata,-,Q587895,way
+Vavrínová,wikidata,-,Q26006,way
+Vážska,wikidata,-,Q202598,way
+Velehradská,wikidata,-,Q11878281,relation
+Veternicová,wikidata,-,Q161045,relation
+"Viedenská cesta",wikidata,-,Q1741,relation
+Vígľašská,wikidata,-,Q1095685,relation
+Vilová,wikidata,-,Q227307,relation
+Vinohradnícka,wikidata,-,Q253140,relation+way
+Višňová,wikidata,-,Q131517,relation
+Vlárska,wikidata,-,Q2529724,relation
+"Vlastenecké námestie",wikidata,-,Q6241,way
+Vosková,wikidata,-,Q124695,relation
+Vranovská,wikidata,-,Q842005,relation
+Vyšehradská,wikidata,-,Q397192,relation
+Vývojová,wikidata,-,Q340724,relation
+Vŕbová,wikidata,-,Q36050,way
+"Za bránou",wikidata,-,Q340696,relation
+"Za farou",wikidata,-,Q13425285,relation
+"Za mlynom",wikidata,-,Q44494,way
+"Zadunajská cesta",wikidata,-,Q1653,relation
+Záhradná,wikidata,-,Q1107656,way
+Záhradnícka,wikidata,-,Q124946,relation
+Záhrady,wikidata,-,Q1107656,relation
+Zámocká,wikidata,-,Q751876,relation
+"Zámocké schody",wikidata,-,Q751876,relation
+"Západný rad",wikidata,-,Q679,relation
+Záporožská,wikidata,-,Q157835,relation
+Zdravotnícka,wikidata,-,Q31207,way
+Zelená,wikidata,-,Q3133,relation
+Zeleninová,wikidata,-,Q11004,relation
+Znievska,wikidata,-,Q3493812,relation
+Čakanková,wikidata,-,Q2544599,relation
+Čaklovská,wikidata,-,Q337566,relation
+Čalovská,wikidata,-,Q740469,relation
+Čerešňová,wikidata,-,Q165137,relation
+Černicová,wikidata,-,Q13541716,relation
+Čiernovodská,wikidata,-,Q12781295,way
+Čučoriedková,wikidata,-,Q5413585,relation
+Ďatelinová,wikidata,-,Q156635,relation
+Ľadová,wikidata,-,Q23392,relation
+Ľanová,wikidata,-,Q45108,way
+Ľubietovská,wikidata,-,Q223477,way
+Ľubovnianska,wikidata,-,Q1072570,way
+Ľubľanská,wikidata,-,Q437,relation
+Žatevná,wikidata,-,Q7214166,relation
+Žehrianska,wikidata,-,Q393479,relation
+Železničná,wikidata,-,Q22667,relation
+Želiarska,wikidata,-,Q13377601,relation
+Žiacka,wikidata,-,Q20852801,way
+Židovská,wikidata,-,Q7325,relation
+Žihľavová,wikidata,-,Q155909,way
+Žilinská,wikidata,-,Q25797,relation
+"Župné Námestie",wikidata,-,Q10296503,way
 "A. Gwerkovej",wikidata,F,Q12762214,relation
 "Boženy Němcovej",wikidata,F,Q157970,way
 Gregorovej,wikidata,F,Q12018957,way
