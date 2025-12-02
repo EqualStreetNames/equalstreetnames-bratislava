@@ -272,6 +272,7 @@ Hríbová,,,,way
 Hrobákova,,,,relation
 Hrobárska,,,,relation
 Hroznová,,,,way
+"Hrôzostrašný chodníček",,,,way
 Hrušková,,,,way
 "Hruškový sad",,,,way
 Hrušovská,,,,relation
@@ -339,6 +340,7 @@ Jonatánová,,,,relation
 "Jurigovo námestie",,,,relation+way
 Jurská,,,,way
 Justičná,,,,way
+"K Horanskej studni",,,,way
 "K Horánskej studni",,,,way
 "K pasienkom",,,,way
 "K zlatému rohu",,,,way
@@ -514,7 +516,7 @@ Mariánska,,,,relation
 "Maríny Paulínyovej",,,,way
 Markova,,,,relation
 Maróthyho,,,,way
-"Martina Granca",,,,relation
+"Martina Granca",,,,relation+way
 Martinská,,,,way
 "Mateja Encingera",,,,way
 Matičná,,,,way
@@ -768,7 +770,6 @@ Plzenská,,,,way
 "Pod násypom",,,,relation
 "Pod vinicami",,,,way
 "Pod záhradami",,,,way
-"Pod čerešňami",,,,way
 "Podchod pamäti",,,,way
 "Podchod študentov 16. novembra 1989",,,,relation
 Podháj,,,,relation
@@ -782,7 +783,6 @@ Podkorunská,,,,relation
 Podlučinského,,,,relation
 Podniková,,,,way
 Podtatranského,,,,way
-Podvornická,,,,way
 Podzáhradná,,,,way
 "Pohraničiarska signálka",,,,way
 Pohraničníkov,,,,way
