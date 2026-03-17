@@ -278,7 +278,6 @@ Hrušková,,,,way
 Hrušovská,,,,relation
 Hubeného,,,,way
 Hudecova,,,,way
-"Husákova skratka",,,,way
 Hviezdna,,,,way
 Hyacintová,,,,way
 Hybešova,,,,way
@@ -347,6 +346,7 @@ Justičná,,,,way
 Kadnárova,,,,way
 Kajerka,,,,way
 Kalinová,,,,way
+Kalinčiakova,,,,relation+way
 Kalištná,,,,way
 Kaméliová,,,,relation
 Kamenárska,,,,way
@@ -361,7 +361,6 @@ Kapsohradská,,,,way
 "Karloveské rameno",,,,way
 "Karola Adlera",,,,relation
 "Karpatské námestie",,,,way
-"Kartina a Soniky",,,,way
 Kašmírska,,,,way
 Kaštieľska,,,,way
 "Kataríny Brúderovej",,,,way
@@ -378,7 +377,6 @@ Klobučnícka,,,,relation
 "Knižkova dolina",,,,way
 Kohútova,,,,way
 Kolárska,,,,relation
-"Koliba Gardens",,,,way
 Kolískova,,,,way
 Kolmá,,,,relation
 Komárnická,,,,relation
@@ -616,10 +614,10 @@ Nákovná,,,,relation
 Nákupná,,,,way
 "Námestie Biely kríž",,,,way
 "Námestie F. X. Messerschmidta",,,,way
+"Námestie Nežnej revolúcie",,,,relation+way
 "Námestie T. G. Masaryka",,,,way
 "Námestie Titusa Zemana",,,,way
 "Námestie generála Viesta",,,,way
-"Námestie nežnej revolúcie",,,,relation+way
 "Námestie pri sýpke",,,,way
 "Námestie pri zimnom štadióne",,,,relation
 "Námestie rodiny",,,,way
@@ -774,7 +772,6 @@ Plzenská,,,,way
 "Podchod študentov 16. novembra 1989",,,,relation
 Podháj,,,,relation
 Podhorská,,,,way
-Podhorského,,,,way
 "Podhorského chodník",,,,way
 Podjazd,,,,relation
 Podkarpatská,,,,way

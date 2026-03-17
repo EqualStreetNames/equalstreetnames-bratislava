@@ -489,7 +489,7 @@ Beňovského,wikidata,M,Q93419,way
 Bilíkova,wikidata,M,Q20788042,relation
 Björnsonova,wikidata,M,Q46405,relation
 Bohrova,wikidata,M,Q7085,relation
-Bohúňova,wikidata,M,Q4180080,relation
+Bohúňova,wikidata,M,Q4180080,relation+way
 "Borisa Nemcova",wikidata,M,Q363846,way
 Borodáčova,wikidata,M,Q4767243,way
 Bosákova,wikidata,M,Q13449450,relation
@@ -592,7 +592,6 @@ Jungmannova,wikidata,M,Q508939,relation
 Jurkovičova,wikidata,M,Q3563677,way
 Jurovského,wikidata,M,Q391641,way
 Kafendova,wikidata,M,Q3505734,way
-Kalinčiakova,wikidata,M,Q2467280,way
 Kapicova,wikidata,M,Q172844,way
 Karadžičova,wikidata,M,Q202815,relation
 Klemensova,wikidata,M,Q8420126,relation
@@ -603,7 +602,7 @@ Koceľova,wikidata,M,Q709663,relation
 Kollárova,wikidata,M,Q220550,way
 "Kollárovo námestie",wikidata,M,Q220550,relation+way
 "Komenského námestie",wikidata,M,Q12735,relation+way
-Korabinského,wikidata,M,Q1118827,relation
+Korabinského,wikidata,M,Q1118827,relation+way
 Kostlivého,wikidata,M,Q12776645,way
 Kozičova,wikidata,M,Q18396703,way
 "Kpt. Jána Rašu",wikidata,M,Q20851918,relation
@@ -617,7 +616,7 @@ Kukučínova,wikidata,M,Q1384769,relation
 Kupeckého,wikidata,M,Q700163,relation
 Kuzmányho,wikidata,M,Q697863,relation
 Kvačalova,wikidata,M,Q1122517,relation
-Lachova,wikidata,M,Q12768513,relation
+Lachova,wikidata,M,Q12768513,relation+way
 "Ladislava Dérera",wikidata,M,Q12032480,way
 "Ladislava Sáru",wikidata,M,Q12770129,way
 Ladzianskeho,wikidata,M,Q12768737,way
