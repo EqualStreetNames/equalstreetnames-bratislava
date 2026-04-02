@@ -58,7 +58,6 @@ Belehradská,,,,way
 Belianska,,,,way
 Belicová,,,,way
 Bezekova,,,,way
-Béžová,,,,way
 Bielkova,,,,way
 Blagoevova,,,,relation
 Blatúchová,,,,way
@@ -120,6 +119,7 @@ Cezmínová,,,,way
 Chalcedónová,,,,way
 Chemická,,,,way
 Chladná,,,,way
+"Chodník Eduarda Gregora",,,,way
 Chotárna,,,,relation
 Chrasťová,,,,relation+way
 Chrenová,,,,way
@@ -329,7 +329,6 @@ Jelačičova,,,,way
 Jelšová,,,,way
 Jesenná,,,,way
 Jesienková,,,,way
-Ježkova,,,,way
 Jiskrova,,,,way
 Jókaiho,,,,way
 Jonatánová,,,,relation
@@ -378,6 +377,7 @@ Klobučnícka,,,,relation
 Kohútova,,,,way
 Kolárska,,,,relation
 Kolískova,,,,way
+Kollerova,,,,way
 Kolmá,,,,relation
 Komárnická,,,,relation
 Komárovská,,,,way
@@ -547,7 +547,6 @@ Moskovská,,,,way
 Mošovského,,,,way
 "Most Apollo",,,,way
 Mostová,,,,way
-Motorkárska,,,,way
 Moyšova,,,,way
 Mraziarenská,,,,way
 Mrázová,,,,way
@@ -694,7 +693,6 @@ Ovsená,,,,way
 Ovčiarska,,,,way
 "Padlých hrdinov",,,,way
 Pálavská,,,,way
-Paletová,,,,way
 Palinová,,,,way
 Pankúchova,,,,way
 Pántikova,,,,way
@@ -720,6 +718,7 @@ Pažítková,,,,way
 Perličková,,,,way
 Perlová,,,,way
 Pernecká,,,,way
+"Pešia zóna",,,,way
 Pestovateľská,,,,way
 "Petara Pasicha",,,,way
 Peterská,,,,way
@@ -781,6 +780,7 @@ Podlučinského,,,,relation
 Podniková,,,,way
 Podtatranského,,,,way
 Podzáhradná,,,,way
+Pohánková,,,,way
 "Pohraničiarska signálka",,,,way
 Pohraničníkov,,,,way
 Pohronská,,,,way
@@ -813,7 +813,6 @@ Prešernova,,,,way
 "Pri gaštanovej aleji",,,,way
 "Pri hradnej studni",,,,way
 "Pri hrádzi",,,,way
-"Pri jazere",,,,way
 "Pri kolíske",,,,way
 "Pri lesostepi",,,,way
 "Pri letisku",,,,way
@@ -1112,7 +1111,6 @@ Tučkova,,,,relation
 Tylova,,,,way
 Tyrkysová,,,,way
 Tŕňová,,,,way
-"U dobrých susedov",,,,way
 Údernícka,,,,relation
 Údolná,,,,way
 Uhliská,,,,relation+way
@@ -1230,6 +1228,8 @@ Zrínskeho,,,,way
 Zvolenská,,,,way
 Zvončeková,,,,way
 "k internátu",,,,way
+"to je len chodník",,,,way
+"to je len chodník k elektrické zo Slnečnic",,,,way
 Čachtická,,,,way
 Čárskeho,,,,way
 Čavojského,,,,way
